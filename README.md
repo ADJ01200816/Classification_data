@@ -60,3 +60,9 @@ classification_criteria = ["finance", "new energy", "automotive"]
 category, matching_criteria = classify_text(text, classification_criteria)
 print(f"Predicted Category: {category}")
 print(f"Matching Criteria: {matching_criteria}")
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding standards and write appropriate tests for your changes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
