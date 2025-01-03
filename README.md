@@ -26,7 +26,7 @@ The model is designed to be flexible and adaptable across multiple industries, i
 - Finance
 - Healthcare
 - New Energy
-- And more...
+
 
 ## Installation
 
