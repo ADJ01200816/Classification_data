@@ -74,7 +74,7 @@ This project requires the following Python libraries and tools:
 
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install -r outdependence.txt
     ```
 
 3. Download any necessary pretrained models (if applicable).
