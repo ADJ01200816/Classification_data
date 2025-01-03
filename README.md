@@ -27,7 +27,44 @@ The model is designed to be flexible and adaptable across multiple industries, i
 - Healthcare
 - New Energy
 
+## Dependencies
 
+This project requires the following Python libraries and tools:
+
+### Basic Libraries
+
+- `re`: Regular expression operations
+- `os`: Interacting with the operating system
+- `time`: Time-related functionality
+- `shutil`: High-level file operations
+- `numpy`: Numerical computation library
+- `pandas`: Data processing and analysis library
+- `collections`: Provides special data structures like `Counter`
+- `jieba`: Chinese text segmentation tool
+
+### Machine Learning Libraries
+
+- `sklearn`:
+  - `metrics.pairwise`: For calculating similarities (e.g., cosine similarity)
+  - `feature_extraction.text`: Provides `TfidfVectorizer` and `CountVectorizer`
+  - `model_selection`: Provides `train_test_split`
+  - `metrics`: Includes classification reports and accuracy evaluation
+  - `neighbors`: k-nearest neighbors classifier
+  - `tree`: Decision tree classifier
+  - `svm`: Support vector machine classifier
+  - `linear_model`: Logistic regression classifier
+  - `ensemble`: Random forest and gradient boosting classifiers
+  - `naive_bayes`: Multinomial Naive Bayes classifier
+
+### Deep Learning and Natural Language Processing
+
+- `torch`: PyTorch, deep learning framework
+- `transformers`: For handling pre-trained BERT models (including `BertModel`, `BertTokenizer`, `Trainer`, and `TrainingArguments`)
+
+### Other Dependencies
+
+- `datasets`: For loading and processing datasets
+- `zhipuai`: Interface to the Zhipu AI service for model inference
 ## Installation
 
 1. Clone the repository:
