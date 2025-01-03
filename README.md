@@ -98,8 +98,102 @@ category, matching_criteria = classify_text(text, classification_criteria)
 print(f"Predicted Category: {category}")
 print(f"Matching Criteria: {matching_criteria}")
 
+
+
 ### Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding standards and write appropriate tests for your changes.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Here’s the complete `README.md` code for your project:
+
+```markdown
+# Project Name
+
+Project description...
+
+## Dependencies
+
+This project requires the following Python libraries and tools:
+
+### Basic Libraries
+
+- `re`: Regular expression operations
+- `os`: Interacting with the operating system
+- `time`: Time-related functionality
+- `shutil`: High-level file operations
+- `numpy`: Numerical computation library
+- `pandas`: Data processing and analysis library
+- `collections`: Provides special data structures like `Counter`
+- `jieba`: Chinese text segmentation tool
+
+### Machine Learning Libraries
+
+- `sklearn`:
+  - `metrics.pairwise`: For calculating similarities (e.g., cosine similarity)
+  - `feature_extraction.text`: Provides `TfidfVectorizer` and `CountVectorizer`
+  - `model_selection`: Provides `train_test_split`
+  - `metrics`: Includes classification reports and accuracy evaluation
+  - `neighbors`: k-nearest neighbors classifier
+  - `tree`: Decision tree classifier
+  - `svm`: Support vector machine classifier
+  - `linear_model`: Logistic regression classifier
+  - `ensemble`: Random forest and gradient boosting classifiers
+  - `naive_bayes`: Multinomial Naive Bayes classifier
+
+### Deep Learning and Natural Language Processing
+
+- `torch`: PyTorch, deep learning framework
+- `transformers`: For handling pre-trained BERT models (including `BertModel`, `BertTokenizer`, `Trainer`, and `TrainingArguments`)
+
+### Other Dependencies
+
+- `datasets`: For loading and processing datasets
+- `zhipuai`: Interface to the Zhipu AI service for model inference
+
+## Installation
+
+You can install the required libraries using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+Alternatively, you can manually install the libraries:
+
+```bash
+pip install torch transformers sklearn jieba pandas numpy zhipuai datasets
+```
+
+## Usage
+
+1. Input the unstructured industry data text into the model.
+2. Provide the industry classification guidelines as part of the input.
+3. Run the model to get the output:
+   - **Category Level**: The predicted industry category.
+   - **Matching Criteria**: The specific criteria from the guidelines that match the input text.
+
+Example:
+
+```python
+from model import classify_text
+
+text = "Sample unstructured data about new energy car market trends."
+classification_criteria = ["finance", "new energy", "automotive"]
+
+category, matching_criteria = classify_text(text, classification_criteria)
+print(f"Predicted Category: {category}")
+print(f"Matching Criteria: {matching_criteria}")
+```
+
+### Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding standards and write appropriate tests for your changes.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
