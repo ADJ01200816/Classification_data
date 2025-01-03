@@ -92,7 +92,7 @@ Example:
 from model import classify_text
 
 text = "Sample unstructured data about new energy car market trends."
-classification_criteria = ["finance", "new energy", "automotive"]
+classification_criteria = ["finance", "new energy automotive", "medical"]
 
 category, matching_criteria = classify_text(text, classification_criteria)
 print(f"Predicted Category: {category}")
