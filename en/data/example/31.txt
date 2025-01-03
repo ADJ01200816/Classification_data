@@ -1,0 +1,37 @@
+The terms you've listed are related to the field of financial services, particularly concerning security measures and access controls for various types of accounts and payment methods. Here's a brief explanation of each term:
+
+- **Verification Unit**: A component or system used to confirm the authenticity of a transaction or the identity of a user.
+
+- **Access Rights**: The permissions that allow an individual to enter, use, or view certain data or systems.
+
+- **Usage Rights**: The rights granted to a user to utilize certain features or services.
+
+- **Data**: Information, typically in a digital format, that is stored and processed by a computer system.
+
+- **Bank Card Magnetic Tracks**: The strip on the back of a bank card that contains data such as the card number, name, and expiration date.
+
+- **Chip Equivalent Information**: Data stored on the chip of an EMV (Europay, Mastercard, Visa) card, which provides enhanced security compared to magnetic stripe cards.
+
+- **Card Verification Code (CVC, CVN, CVN2)**: A three- or four-digit number on a credit or debit card used to verify that the card is in the cardholder's possession.
+
+- **Card Validity Period**: The period during which a bank card is valid, usually specified by a start month and year to an end month and year.
+
+- **Bank Card Password, Payment Password**: A secret code used to authenticate the user and grant access to the bank card or payment account.
+
+- **Payment Sensitive Information**: Any sensitive data required to complete a transaction, such as passwords, CVNs, and card numbers.
+
+- **Account, Payment Account**: A financial repository of funds from which payments can be made and into which funds can be received.
+
+- **Network Payment Business System**: An online system that processes payment transactions.
+
+- **Personal Financial Information Subject**: An individual about whom financial information is collected and processed.
+
+- **Login User**: A user who has access to a system or service by providing the required credentials.
+
+- **Securities Account**: An account opened with a financial institution to hold investments such as stocks, bonds, and mutual funds.
+
+- **Insurance Account**: An account associated with an insurance policy, where policy details and claims may be accessed.
+
+- **Login Password, Transaction Password, Query Password**: Different types of passwords that may be used for accessing an account, authorizing transactions, or viewing information, respectively.
+
+In many jurisdictions, these elements are subject to strict regulations to protect the security and privacy of individuals' financial information. It's important to handle such information with care and follow best practices for cybersecurity to prevent fraud and unauthorized access.

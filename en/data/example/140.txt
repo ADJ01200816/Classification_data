@@ -1,0 +1,40 @@
+Non-bank payment institutions and non-on-site regulatory services often need to communicate important information to their customers and stakeholders. This can be done through various announcement channels, such as websites, mobile apps, email, SMS, and social media platforms. Below are examples of how these entities might structure their announcement prompt information, including message titles and content:
+
+### Announcement Prompt Information
+This is the initial notification that alerts users to a new announcement. It is usually brief and designed to encourage the recipient to read the full message.
+
+**Example Prompt:**
+- "Important Update: New Security Features on Your Payment App"
+- "Notice: Regulatory Changes Affecting Your E-Wallet"
+- "Alert: Service Disruption on Our Payment Platform"
+
+### Announcement Message Title
+The title of the actual announcement should be clear and informative, indicating the nature of the announcement.
+
+**Example Titles:**
+- "Enhanced Security Measures for Your Protection"
+- "Regulatory Compliance Update: What You Need to Know"
+- "Scheduled Maintenance: Temporary Service Interruption"
+
+### Announcement Message Content
+The content of the message should provide the necessary details, be concise, and direct, with a clear call to action if required.
+
+**Example Content:**
+
+1. **Security Update:**
+   "Dear valued customer, we have recently upgraded our payment systems to include multi-factor authentication, enhancing the security of your transactions. Please update your app to the latest version and set up your additional security features by [date]. For more information, visit our [FAQ page]."
+
+2. **Regulatory Change:**
+   "In compliance with the latest regulatory guidelines, we are implementing changes to our payment processing procedures. These changes will ensure a more secure and transparent transaction environment. Please review our updated terms of service, effective [date]. Should you have any questions, refer to our [guide to regulatory changes]."
+
+3. **Service Disruption:**
+   "We will be conducting system maintenance on [date] from [time] to [time]. During this period, our payment services may be unavailable. We apologize for the inconvenience. Please plan your transactions accordingly. For further assistance, contact our support at [customer support contact]."
+
+When crafting these messages, it is crucial to consider the following:
+- Clarity: The message should be easy to understand, avoiding complex industry jargon.
+- Tone: A professional and respectful tone is appropriate.
+- Accuracy: Ensure all information is correct and up-to-date.
+- Accessibility: Provide accessible formats for users with disabilities if necessary.
+- Compliance: Make sure that all content adheres to relevant regulations and legal requirements.
+
+By following these guidelines, non-bank payment institutions and non-on-site regulatory services can effectively communicate important information to their users.
