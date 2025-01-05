@@ -1,0 +1,15 @@
+The information you're seeking is typically found in a company's official filings and documents, such as its annual report, prospectus, or other disclosure documents. These details are usually public record for publicly traded companies and can also be found in various corporate databases and registers. Here's a brief explanation of the terms you mentioned:
+
+1. **Investor Information Data:**
+   - This includes a wide range of information that may be relevant to investors, such as financial statements, earnings reports, stock performance data, dividend information, management's discussion and analysis, and news releases. This data can be used by investors to assess the company's financial health and investment potential.
+
+2. **Controlling Shareholder Name:**
+   - The controlling shareholder is the individual, company, or group that owns enough shares to have control over the company's operations and management. This is typically anyone who owns more than 50% of the company's outstanding shares. However, control can also be exerted with less than 50% ownership, especially if other shareholders' interests are widely分散 (dispersed). The name of the controlling shareholder is usually disclosed in significant ownership reports or the company’s annual filings.
+
+3. **Registered Capital:**
+   - This is the total amount of capital that a company has legally registered with the relevant government authority. It represents the amount of capital that the company is authorized to issue to shareholders, and it is a component of the company's equity. In some jurisdictions, this is a fixed amount that the company must maintain and cannot distribute to shareholders as dividends.
+
+4. **Paid-in Capital:**
+   - Paid-in capital, also known as contributed capital or share capital, refers to the amount of money that shareholders have invested into a company in exchange for shares of stock. It is a subset of the registered capital and represents the actual funds that have been received by the company from the issuance of its shares. Paid-in capital can be further categorized into different classes of shares (e.g., common stock, preferred stock).
+
+For specific details regarding a particular company, you would need to access the company's official filings with the securities regulator (such as the Securities and Exchange Commission in the United States, or the equivalent in other countries), or search through corporate databases such as Bloomberg, Hoovers, or similar services. If the company is private, this information may not be as readily available, but it can still be found through the appropriate business registries and databases, depending on the jurisdiction of incorporation.

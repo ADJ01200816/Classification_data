@@ -1,0 +1,30 @@
+In the financial industry, institutions are often required to conduct questionnaire surveys as part of their Anti-Money Laundering (AML) compliance program. These surveys help assess the effectiveness of AML policies and procedures, identify potential vulnerabilities, and ensure that the institution is adhering to regulatory requirements. Below are some possible names for an AML questionnaire survey along with the various response statuses that might be used:
+
+### Anti-Money Laundering Questionnaire Survey Names:
+
+1. AML Compliance Evaluation Survey
+2. Money Laundering Risk Assessment Questionnaire
+3. Financial Crime Prevention Questionnaire
+4. AML Program Effectiveness Review
+5. Anti-Money Laundering Policy Compliance Survey
+6. Customer Due Diligence Questionnaire
+7. Transaction Monitoring and Filtering Review Survey
+8. AML Internal Controls Self-Assessment
+9. Sanctions and Embargoes Compliance Survey
+10. Fraud and Money Laundering Risk Questionnaire
+
+### Anti-Money Laundering Questionnaire Survey Response Statuses:
+
+- **Completed**: The questionnaire has been fully answered and submitted for review.
+- **In Progress**: The respondent has started the questionnaire but has not yet finished it.
+- **Pending Review**: The questionnaire has been submitted and is awaiting review by compliance personnel.
+- **Needs Clarification**: Some responses require further information or clarification from the respondent.
+- **Approved**: The questionnaire has been reviewed and the responses meet the institution's compliance standards.
+- **Rejected**: The questionnaire contains responses that are not in compliance with AML policies and need to be revised.
+- **Overdue**: The questionnaire was not completed within the required timeframe.
+- **Not Applicable**: The questionnaire section or question does not apply to the respondent's role or department.
+- **Acknowledged**: The respondent has reviewed the questionnaire and acknowledges the AML policies and procedures.
+- **Action Required**: The questionnaire has highlighted issues that require follow-up actions to be taken by the respondent or compliance team.
+- **Closed**: The questionnaire has been addressed, and any necessary actions have been taken and documented.
+
+Each of these statuses can help the institution track the progress and effectiveness of their AML questionnaire survey efforts, ensuring that they maintain a robust AML compliance program.

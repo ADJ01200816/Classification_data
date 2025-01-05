@@ -1,0 +1,24 @@
+A Legal Entity Identifier (LEI) is a unique code that identifies a legal entity that engages in financial transactions. It is a global standard designed to enhance the transparency and risk management in the financial markets. The LEI system was established by the Financial Stability Board and is used across various jurisdictions.
+
+The LEI consists of a 20-character alpha-numeric code that connects to key reference information that enables clear and unique identification of legal entities. This information includes:
+
+- The legal entity's name
+- The legal form of the entity and the entity's jurisdiction of formation
+- The address of the entity's registered office
+- The entity's date of formation
+- The country where the entity is operating
+- The identity of the entity's ultimate parent, if applicable
+
+Institutional Verification Status in the context of LEI refers to the process by which the information provided for the LEI is checked and confirmed for accuracy. This verification can be done by:
+
+1. The entity itself, which applies for the LEI through an LEI issuing organization (also known as a Local Operating Unit or LOU).
+2. A third-party provider that has been authorized to verify the entity's information and issue the LEI on its behalf.
+
+The verification status can indicate the following:
+
+- Unverified: The information has been entered but not yet independently verified.
+- Verified: The information provided has been checked and confirmed as accurate by the LEI issuer or a third-party provider.
+- Expired: The LEI record has not been renewed within the required timeframe, and the information may no longer be current.
+- Inactive: The LEI is no longer active, which could be due to the entity being dissolved or merged with another legal entity.
+
+Maintaining an accurate LEI is crucial for legal entities, as it is often required for various financial and regulatory reporting purposes. It helps in complying with anti-money laundering (AML) and know your customer (KYC) requirements, as well as enhancing the efficiency of financial markets.

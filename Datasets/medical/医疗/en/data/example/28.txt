@@ -1,0 +1,32 @@
+Enterprise management involves the oversight and administration of a business, including its main personnel and the actual controller. In the context of managing this information, particular data points are crucial for identification and communication purposes. Below are the key details that are typically collected and managed:
+
+1. **Main Personnel:**
+   - **Name:** Full name of the key personnel.
+   - **Position:** Their role within the company.
+   - **Department:** The department or division they are responsible for.
+
+2. **Actual Controller:**
+   - This is the individual or entity that has significant influence or control over the enterprise, which can be different from the legal owner.
+   - **Name:** Full name of the actual controller.
+   - **Control Type:** The nature of their control (e.g., majority shareholder, CEO, etc.).
+
+3. **Information Data:**
+   - This includes all the personal and business information that is necessary for identification and business operations.
+
+4. **ID Type:**
+   - **Identity Card:** For individuals, this would typically be a national ID card, driver's license, passport, etc.
+   - **Business Registration:** For a company, this could be the business license, tax registration number, etc.
+
+5. **ID Number:**
+   - The unique identification number of the ID type mentioned above.
+   - **Personal ID Number:** Social Security Number (SSN) or equivalent.
+   - **Company ID Number:** Business registration number or equivalent.
+
+6. **Contact Information:**
+   - **Address:** Residential or business address, as appropriate.
+   - **Phone Number:** Personal or work phone number.
+   - **Email Address:** Personal or company email address.
+   - **Fax Number:** If still in use.
+   - **WeChat, WhatsApp, or Other Messaging IDs:** Depending on the region and preferences.
+
+In many jurisdictions, the collection and management of such data are subject to privacy laws and regulations. Enterprises are required to handle this information securely, ensure its accuracy, and limit its use to the purposes for which it was collected. In addition, they are often required to obtain the consent of the individuals concerned before collecting and storing their personal information.

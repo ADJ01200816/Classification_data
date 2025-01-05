@@ -1,0 +1,21 @@
+Financial institutions are subject to various regulatory assessments to ensure they comply with anti-money laundering (AML) and counter-terrorism financing (CTF) laws and regulations. These assessments help to classify the risk level that each institution poses in terms of potential money laundering and other illegal financial activities. Here's an overview of the related terms:
+
+1. **Financial Institutions**: These include banks, credit unions, insurance companies, investment funds, and other entities that provide financial services. They are required to have AML/CTF programs in place to detect and prevent money laundering and the financing of terrorism.
+
+2. **Classification Assessment Rating**:
+   - This rating is typically assigned to financial institutions after an evaluation of their AML/CTF measures, internal controls, and overall compliance with relevant laws and regulations.
+   - The assessment may consider factors such as the institution’s size, location, customer base, products and services offered, transaction volume, and history of compliance.
+   - Ratings can vary by jurisdiction but might include categories such as low, normal, medium, high, or very high risk.
+
+3. **Anti Money Laundering Assessment Level**:
+   - This level refers to the degree of risk a financial institution poses in terms of money laundering.
+   - It is determined by the regulatory authority or an independent assessor, considering the institution’s risk assessment processes, the effectiveness of its AML controls, and its adherence to legal requirements.
+   - Assessment levels can influence the frequency and intensity of regulatory examinations and audits.
+
+4. **Anti Money Laundering Indicator Score Value**:
+   - An AML indicator score value is a numeric or alphanumeric score assigned to a financial institution based on various risk indicators.
+   - These indicators can include the types of transactions, the number of suspicious activities reported, the effectiveness of the institution’s AML program, and other factors.
+   - The score is used to determine the institution’s AML risk profile and can affect its regulatory assessment level.
+   - Higher scores may indicate higher risk, which would prompt closer regulatory scrutiny and potentially require the institution to take additional measures to mitigate risks.
+
+The specific methodologies for determining classification assessment ratings and AML indicator score values can vary between jurisdictions and even between different regulatory bodies within the same country. Financial institutions are often required to conduct their own internal risk assessments and maintain documentation to demonstrate their compliance with AML/CTF requirements.

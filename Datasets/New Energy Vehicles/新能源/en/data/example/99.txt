@@ -1,0 +1,47 @@
+A reinsurance contract is an agreement between an insurance company (the ceding company or the primary insurer) and a reinsurer. In this arrangement, the primary insurer transfers a portion of the risk it has assumed on insurance policies to the reinsurer. This is done to limit the insurer's exposure to losses and to ensure its financial stability. Here's a breakdown of some of the key terms and concepts related to reinsurance:
+
+**Incoming and Outgoing Institutions:**
+- **Incoming Institution:** The institution that provides reinsurance to the primary insurer (reinsurer).
+- **Outgoing Institution:** The primary insurer that seeks reinsurance to manage its risk exposure.
+
+**Contract Term:**
+The duration of the reinsurance agreement, which can range from one year to multiple years.
+
+**Reinsurance Methods:**
+There are different methods of reinsurance, including:
+- **Proportional Reinsurance (Pro Rata):** The reinsurer assumes a proportionate share of the risk, losses, and premiums. This can be further categorized into quota share and surplus share.
+  - **Quota Share:** A set percentage of every risk is ceded to the reinsurer.
+  - **Surplus Share:** The reinsurer takes a share of the risk in excess of a certain amount retained by the primary insurer.
+- **Non-Proportional Reinsurance (Excess of Loss):** The reinsurer covers losses that exceed a certain amount (the retention level) up to a specified limit.
+
+**Temporary Reinsurance:**
+A form of reinsurance that provides coverage for a short period, often used for specific events or circumstances.
+
+**Proportion vs. Non-Proportion:**
+- **Proportional:** The reinsurer shares in the risk and premium proportionally with the insurer.
+- **Non-Proportional:** The reinsurer covers losses exceeding the retention level and does not share in the premium proportionally.
+
+**Type of Reinsurance Business:**
+This can include various types of underlying insurance business, such as:
+- **Personal Insurance:** Covering individuals, such as life, health, or accident insurance.
+- **Property Insurance:** Covering damage to or loss of property, including homes, vehicles, or businesses.
+
+**Premium:**
+The amount of money the primary insurer pays to the reinsurer for taking on a portion of the risk.
+
+**Calculation Method:**
+The method used to calculate the amount of reinsurance premium, which can be based on factors like the risk profile, historical loss experience, and the terms of the contract.
+
+**Insurance Amount:**
+The maximum amount that the reinsurer will pay in the event of a loss.
+
+**Compensation:**
+The payment made by the reinsurer to the primary insurer to cover a loss that falls within the terms of the reinsurance contract.
+
+**Financial Settlement Information:**
+Details regarding the financial aspects of the reinsurance transaction, including how and when payments are to be made.
+
+**Exclusion Information:**
+Specifics about what is not covered under the reinsurance contract. Exclusions can be based on certain types of risks, locations, or other defined criteria.
+
+Understanding these terms and the mechanics of reinsurance contracts is crucial for insurance companies to manage their risks effectively and remain financially stable.

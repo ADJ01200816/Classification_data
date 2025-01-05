@@ -1,0 +1,23 @@
+An insurance contract is a legal agreement between an insurer and an insured, outlining the terms and conditions of the insurance coverage provided. Here's an explanation of the key terms related to insurance contracts:
+
+1. Insurer: The company or entity that provides insurance coverage in exchange for the payment of a premium. The insurer assumes the risk and is obligated to pay out in the event of a covered loss or claim.
+
+2. Insured: The individual or entity that is protected by the insurance policy. They are covered against potential financial loss or liability as defined in the insurance contract.
+
+3. Insurance Coverage: The scope of protection provided by the insurance policy. It details what perils, events, or risks are covered and any exclusions that apply.
+
+4. Insurance Liability Name: The specific type of risk or liability that is covered by the insurance policy, such as bodily injury, property damage, or professional liability.
+
+5. Insurance Period: The duration of time during which the insurance policy is in effect. It typically starts on the effective date and ends on the expiration date.
+
+6. Insurance Amount: The maximum limit of the insurer's liability under the policy. This is the maximum amount the insurer will pay for a covered loss or claim.
+
+7. Liability Premium: The amount of money the insured pays to the insurer for the insurance coverage. It is typically paid on a regular basis (e.g., monthly, quarterly, annually).
+
+8. Rate: The price or cost of insurance per unit of coverage. Rates are determined by the insurer based on various factors, such as the insured's risk profile, location, and the type of coverage.
+
+9. Insurance Compensation: The payment made by the insurer to the insured or a third party in the event of a covered loss or claim. This is the actual amount paid out, which may be subject to the policy's limits and deductibles.
+
+10. Payment Method: The method by which the insured pays the premium to the insurer. Common payment methods include electronic funds transfer, credit card, check, or bank draft.
+
+Understanding these terms is crucial for both the insurer and the insured to ensure clarity and compliance with the insurance contract.

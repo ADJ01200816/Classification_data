@@ -1,0 +1,28 @@
+The financial information you're referring to includes several key data points that are essential for understanding the financial health and performance of a business unit or entity. Here's a breakdown of the terms you mentioned:
+
+1. **Operating Income:**
+   - Also known as operating profit or operating earnings, operating income is the amount of profit a company generates from its normal core business operations. It is calculated by subtracting the cost of goods sold (COGS) and operating expenses (like salaries, rent, utilities) from the revenue or sales. Operating income does not include interest, taxes, or any other income or expenses that are not directly related to the company's core operations.
+
+   Formula: Operating Income = Revenue - COGS - Operating Expenses
+
+2. **Total Profit:**
+   - This usually refers to the net income or net profit of a company, which is the amount of money the company has earned after all expenses, including operating costs, interest, taxes, and non-operating items, have been deducted from the total revenue. It is the bottom line profit that remains after all financial obligations have been met.
+
+   Formula: Net Income = Total Revenue - Total Expenses (including COGS, operating expenses, interest, and taxes)
+
+3. **Asset Status:**
+   - The asset status of a unit provides information about the resources controlled by the company as a result of past transactions or events, from which future economic benefits are expected. Assets can be categorized into:
+     - Current Assets: Cash, accounts receivable, inventory, etc. (expected to be converted to cash within one year).
+     - Fixed Assets: Land, buildings, equipment, vehicles, etc. (expected to provide economic benefit for more than one year).
+     - Intangible Assets: Patents, trademarks, copyrights, goodwill, etc.
+
+   Assets are reported on the balance sheet and are equal to the sum of liabilities and shareholders' equity (Assets = Liabilities + Shareholders' Equity).
+
+4. **Liability Status:**
+   - Liabilities represent the company's obligations or debts that it owes to external parties. These can include:
+     - Current Liabilities: Short-term debts or obligations that are due within one year, like accounts payable, short-term loans, and accrued expenses.
+     - Long-term Liabilities: Debts that are not due within the next year, such as long-term loans, bonds payable, and pension obligations.
+
+   Liabilities are also reported on the balance sheet and, along with shareholders' equity, make up the other side of the balance sheet equation with assets.
+
+Understanding these components of financial information is crucial for making informed business decisions, assessing the financial viability of a unit, and comparing the performance of different entities within the same industry.
