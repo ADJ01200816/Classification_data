@@ -21,12 +21,9 @@ The structure of each folder is the same, so we will only show one of them here.
 
 ## Folder Structure
 
-### `cn/en`
+### `cn/en`(chinese and english version)
 - **-data**: Industry data files.
-  - **-data**:Includes three files
-   - **-feature_data**：One line represents the content of one guideline
-   - **-level_data**：Each number corresponds to the level of that row of rules in feature_data
-   - **-name_data**：Each name corresponds to the name of each row of criteria in feature_data
+  - **-data**:Includes three files:feature_data、level_data、name_data .
   - **-attribute**: Extracted named entity examples.
   - **-embedding**: Word vectors used for pre-classification.
   - **-example**: Sample data.
