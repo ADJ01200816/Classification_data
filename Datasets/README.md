@@ -17,6 +17,7 @@ You are free to utilize this dataset for academic, research, or commercial purpo
 | finance     | txt         | 
 | medical      | txt         | 
 
+The structure of each folder is the same, so we will only show one of them here.
 ### feature_data
 One line represents the content of one guideline 
 
