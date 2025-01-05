@@ -34,7 +34,7 @@ The main objective of this project is to develop a classification model that can
   - **-attribute**: Extracted named entity examples.
   - **-embedding**: Word vectors used for pre-classification.
   - **-example**: Sample data.
-  - **-info**: Used for testing, unrelated to the main functionality.
+- **-info**: Used for testing, unrelated to the main functionality.
   
 ### Methodology
 The project employs the Clue And Reasoning Prompting (CARP) method, which involves:
