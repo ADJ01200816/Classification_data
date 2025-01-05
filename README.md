@@ -14,6 +14,27 @@ The main objective of this project is to develop a classification model that can
   - Improving the classification granularity and interpretability.
   - Handling few-sample and zero-sample conditions.
   - Transferability of the model across different industries (e.g., finance, healthcare, etc.).
+
+ ## File Descriptions
+
+- **classify_model.py**: Machine learning model for classification, constructing inverted index or trie tree models.
+- **classify.py**: Uses the above models to generate classification results and extracts named entities from text using LLM.
+- **identify.py**: Verifies the classification and pre-classification results. The other two functions are for testing purposes and are unrelated to the main functionality.
+- **new_data.py**: Generates a test dataset using LLM.
+- **outdependence.py**: Contains all imports.
+- **pre_classify.py**: Used for the pre-classification process, including word frequency statistics and keyword extraction.
+- **read_information.py**: Extracts file information.
+- **setting.py**: Configuration of relevant parameters.
+- **tools.py**: Utility functions, including word vector conversion and LLM usage.
+
+## Folder Structure
+
+### `cn/en`
+- **-data**: Industry data files.
+  - **-attribute**: Extracted named entity examples.
+  - **-embedding**: Word vectors used for pre-classification.
+  - **-example**: Sample data.
+  - **-info**: Used for testing, unrelated to the main functionality.
   
 ### Methodology
 The project employs the Clue And Reasoning Prompting (CARP) method, which involves:
