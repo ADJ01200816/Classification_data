@@ -102,18 +102,7 @@ This project requires the following Python libraries and tools:
    - **Matching Criteria**: The specific criteria from the guidelines that match the input text.
 
 Example:
-```python
-from model import classify_text
 
-text = "Sample unstructured data about new energy car market trends."
-classification_criteria = ["finance", "new energy automotive", "medical"]
-
-category, matching_criteria = classify_text(text, classification_criteria)
-print(f"Predicted Category: {category}")
-print(f"Matching Criteria: {matching_criteria}")
-
-```
-Here is a practical example：
 text: Xiao Zhang has handled business through online banking and mobile banking apps, and has also made an appointment for counter services, which are received by his account manager Xiao Li. He occasionally uses remote banking services and receives notifications via email and text messages. Social networks have become an auxiliary channel for him to interact with financial institutions. Recently, he compared the products and services of several institutions and plans to make a choice during his visit time next Wednesday. He usually logs in at night and visits mostly at home. In addition, his web browsing history and APP browsing history show inquiries about personal driving habits.
 
 output:
