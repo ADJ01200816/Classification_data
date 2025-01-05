@@ -11,14 +11,14 @@ The data in this dataset is constructed according to the classification criteria
 You are free to utilize this dataset for academic, research, or commercial purposes. If you find this dataset valuable for your work, please consider citing our paper and providing a link back to this repository.
 
 ## Dataset Details
-| Dataset Name   | Number of rules | Data Format | 
-|----------------|-----------------|-------------|
-| feature_data   | 294             | txt         | 
-| level_data     | 294             | txt         | 
-| name_data      | 294             | txt         | 
+| Dataset Name   | Data Format | 
+|----------------|-------------|
+| New Energy Vehicles   | txt         | 
+| finance     | txt         | 
+| medical      | txt         | 
 
 ### feature_data
-One line represents the content of one guideline, there are 294 rules in total
+One line represents the content of one guideline 
 
 ### level_data
 Each number corresponds to the level of that row of rules in feature_data
