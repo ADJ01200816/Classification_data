@@ -84,7 +84,7 @@ This project requires the following Python libraries and tools:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/industry-data-classification.git
+    git clone https://github.com/ADJ01200816/Classification_data.git
     ```
 
 2. Install the required dependencies:
