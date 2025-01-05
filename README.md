@@ -30,7 +30,7 @@ The main objective of this project is to develop a classification model that can
 
   
 ### Methodology
-The project employs the Clue And Reasoning Prompting (CARP) method, which involves:
+The project employs method which involves:
 - **Feature extraction**: Extracting important feature from the input text.
 - **Design Question Template**: Ask questions to your LLM using question templates.
 - **Pre-classification**: Use the pre-classification method to select the rules that the text may meet, and then perform feature matching.
