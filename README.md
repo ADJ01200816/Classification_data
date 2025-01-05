@@ -31,9 +31,10 @@ The main objective of this project is to develop a classification model that can
   
 ### Methodology
 The project employs the Clue And Reasoning Prompting (CARP) method, which involves:
-- **Clue Identification**: Extracting important clues from the input text.
-- **Reasoning**: Using these clues to identify the most appropriate category.
-- **Fine-Tuning**: Fine-tuning LLMs for improved classification performance on industry-specific datasets.
+- **Feature extraction**: Extracting important feature from the input text.
+- **Design Question Template**: Ask questions to your LLM using question templates.
+- **Pre-classification**: Use the pre-classification method to select the rules that the text may meet, and then perform feature matching.
+
 
 ### Industries Covered
 The model is designed to be flexible and adaptable across multiple industries, including:
