@@ -1,6 +1,6 @@
 # Industry Data Classification using Large Language Models (LLMs)
 
-This repository contains the implementation for classifying unstructured industry data based on large language models (LLMs). The project focuses on improving the accuracy and efficiency of classifying industry-specific data into predefined categories, using state-of-the-art machine learning techniques. The goal is to take an input text along with industry classification guidelines and output the corresponding category and specific matching criteria.
+This repository contains the implementation for classifying unstructured industry data based on large language models (LLMs). The project focuses on improving the accuracy and efficiency of classifying industry-specific data into predefined categories, using machine learning techniques. The goal is to take an input text along with industry classification guidelines and output the corresponding category and specific matching criteria.
 
 ## Project Overview
 
