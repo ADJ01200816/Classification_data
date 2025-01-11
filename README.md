@@ -90,11 +90,14 @@ This project requires the following Python libraries and tools:
 
 ## Usage
 
-1. Input the unstructured industry data text into the model.
-2. Provide the industry classification guidelines as part of the input.
-3. Run the model to get the output:
+1. Run `outdependence.py` to set up the required dependencies.
+2. Run `setting.py` to configure the necessary parameters and settings.
+3. Run `main.py` to execute the model and get the output:
    - **Category Level**: The predicted industry category.
    - **Matching Criteria**: The specific criteria from the guidelines that match the input text.
+   
+Make sure the unstructured industry data and the industry classification guidelines are provided as inputs in the appropriate format.
+
 
 Example:
 
@@ -102,6 +105,14 @@ text: Xiao Zhang has handled business through online banking and mobile banking 
 
 output:
 ['Personal public-private relationship information', 'Unit public-private relationship information'] [2]
+
+
+## Contributors
+
+1. Zusheng Zhang - zushengzhang@163.com
+2. Jingcheng Hu - 1527056163@qq.com
+3. Boyu Zhan - 3338002458@qq.com
+
 
 
 ### Contributing
