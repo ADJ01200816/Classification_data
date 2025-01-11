@@ -86,7 +86,11 @@ This project requires the following Python libraries and tools:
     ```bash
     git clone https://github.com/ADJ01200816/Classification_data.git
     ```
-2. Download any necessary pretrained models (if applicable).
+2. Download Dependencies
+    ```bash
+    pip install -r requirement.txt
+    ```
+3. Download any necessary pretrained models (if applicable).
 
 ## Usage
 
