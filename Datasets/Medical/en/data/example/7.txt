@@ -1,0 +1,3 @@
+John has been experiencing shortness of breath recently, especially when climbing stairs. He visited the doctor yesterday due to persistent coughing. During the visit, his weight and height were recorded. John mentioned that his mother had a similar condition. Below is a sample string:
+
+"John reported his main issue as difficulty in breathing. His recent visits include a persistent cough, which led to his visit yesterday. Previously, he had a surgery in 2019. During the physical check, doctors noted his pale skin and rapid heartbeat. John’s mom had a similar issue. He also shared his wearable device data showing low activity levels. Further, his gene, transcript, and protein tests are scheduled, along with monitoring his metabolism and microbiome."
