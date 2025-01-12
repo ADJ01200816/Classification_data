@@ -1,7 +1,0 @@
-A Registered Legal Entity (RLE) is an organization that has been formally established according to the laws of a particular jurisdiction and is recognized as a separate legal entity from its owners or shareholders. This recognition typically allows the entity to enter into contracts, sue or be sued, own property, and engage in other business activities in its own name.
-
-The Legal Entity Identifier (LEI) is a unique global identifier for legal entities participating in financial transactions. It is designed to enhance transparency and facilitate the understanding of risks in financial markets. The LEI is a 20-character alphanumeric code that connects to key reference information that uniquely identifies a legal entity.
-
-The "Establishment Date" of a legal entity typically refers to the date on which the entity was formally registered or incorporated. This is the date when the entity legally comes into existence according to the laws of the jurisdiction where it was established. The establishment date is an important piece of information as it can determine the legal age of the entity and can be relevant for various legal, regulatory, and contractual purposes.
-
-For example, when a company applies for an LEI, the establishment date provided is usually the date of its incorporation. This information is part of the reference data that is associated with the LEI and can be accessed through various LEI databases and directories.

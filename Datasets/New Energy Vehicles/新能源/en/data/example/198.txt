@@ -1,7 +1,0 @@
-The terms "transaction currency" and "transaction amount" are commonly used in financial contexts, particularly in the realm of payments and banking.
-
-1. **Transaction Currency**: This refers to the type of currency in which a transaction is conducted. For example, if you make a purchase in US Dollars (USD), then USD is the transaction currency. When making cross-border transactions, the transaction currency might be different from the currency of the country where the transaction is taking place. The transaction currency is important for determining exchange rates and fees associated with the transaction.
-
-2. **Transaction Amount**: This is the total value of the transaction being made. It is the sum of money that changes hands between the buyer and the seller. The transaction amount can be influenced by various factors, such as the price of goods or services, taxes, shipping costs, and any applicable fees.
-
-When making a transaction, both the transaction currency and the transaction amount are crucial pieces of information that are used to process the payment and ensure that the correct funds are transferred between the involved parties. They are also important for record-keeping, budgeting, and financial reporting purposes.
