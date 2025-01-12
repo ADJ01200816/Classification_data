@@ -90,7 +90,7 @@ This project requires the following Python libraries and tools:
     ```bash
     pip install -r requirement.txt
     ```
-3. Download any necessary pretrained models (if applicable).
+3. Replace the api in the setting.py and new_data.py files with your own
 
 ## Usage
 
