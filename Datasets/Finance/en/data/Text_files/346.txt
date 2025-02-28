@@ -1,0 +1,51 @@
+Cooperative units are organizations that are owned and operated by their members, who work together to achieve common economic, social, or cultural goals. Below is a basic information template for cooperative units, including unit name, and unit type:
+
+**Basic Information Data Template for Cooperative Units:**
+
+1. **Unit Name:** 
+   - This is the official name of the cooperative unit, which is usually registered legally.
+
+2. **Unit Type:**
+   - Below are common types of cooperative units along with a brief description:
+
+**Types of Unit Type:**
+
+- **Consumer Cooperative:**
+  - Unit Name: Example Consumer Co-op
+  - Unit Type: Consumer
+  - Description: Focused on providing goods and services to its member-owners, often at a discount.
+
+- **Producer Cooperative:**
+  - Unit Name: Example Farmer's Co-op
+  - Unit Type: Producer
+  - Description: Comprises producers who pool resources to process and market their products.
+
+- **Worker Cooperative:**
+  - Unit Name: Example Worker Co-op
+  - Unit Type: Worker
+  - Description: A business owned and democratically managed by its workers.
+
+- **Credit Union:**
+  - Unit Name: Example Community Credit Union
+  - Unit Type: Financial
+  - Description: Provides financial services to its members, who are also owners of the cooperative.
+
+- **Housing Cooperative:**
+  - Unit Name: Example Housing Co-op
+  - Unit Type: Housing
+  - Description: Members own shares in the cooperative, which owns the housing property.
+
+- **Agricultural Cooperative:**
+  - Unit Name: Example Agri-Coop
+  - Unit Type: Agricultural
+  - Description: Provides agricultural services or products to its members.
+
+Here is an example filled out:
+
+**Example:**
+
+- **Unit Name:** Green Valley Farmer's Cooperative
+- **Unit Type:** Producer Cooperative
+- **Additional Information (not part of the template):** This cooperative is focused on organic farming practices and provides its members with access to bulk purchasing, shared equipment, and marketing support.
+
+This template can be used for any cooperative unit to document its basic information.

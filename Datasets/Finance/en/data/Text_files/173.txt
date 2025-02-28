@@ -1,0 +1,22 @@
+When dealing with financial instruments such as bonds or loans, the terms "starting date," "expiration date," "interest settlement method," "interest calculation benchmark," and "interest period" are crucial. Here's what each term means:
+
+1. **Starting Date:**
+   - This is the date on which the financial instrument, such as a bond or loan, begins to accrue interest. It is also sometimes referred to as the "issue date" for bonds or the "disbursement date" for loans. The starting date is important because it marks the beginning of the interest calculation period.
+
+2. **Expiration Date:**
+   - Also known as the "maturity date," this is the date on which the principal amount of the financial instrument is due to be repaid. For bonds, it is the date when the issuer is obligated to return the face value of the bond to the bondholder. For loans, it is the date when the borrower must repay the loan in full.
+
+3. **Interest Settlement Method:**
+   - This refers to the process by which interest payments are made. There are various methods, including:
+     - **Actual/Actual:** Interest is calculated based on the actual number of days in the interest period and the actual number of days in the year.
+     - **30/360:** Interest is calculated assuming each month has 30 days and each year has 360 days.
+     - **Actual/360:** Interest is calculated based on the actual number of days in the interest period but assumes a 360-day year.
+     - Payments can be made at the end of each period (in arrears) or at the beginning of each period (in advance).
+
+4. **Interest Calculation Benchmark:**
+   - This is the rate or index used as a reference for calculating the interest payments. For example, interest on a loan might be set at a certain percentage above the London Interbank Offered Rate (LIBOR) or another widely recognized interest rate benchmark. The benchmark is used to ensure that interest rates are fair and in line with market conditions.
+
+5. **Interest Period:**
+   - This is the length of time over which interest is calculated and accrued. The interest period can vary depending on the terms of the financial instrument. For example, interest might be calculated and paid monthly, quarterly, semi-annually, or annually. The interest period is used to determine how often interest payments are made and how they are calculated.
+
+Understanding these terms is important for both issuers and investors as they affect the cash flows and the overall return on the investment or the cost of borrowing.

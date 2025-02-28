@@ -1,0 +1,35 @@
+When discussing economic indicators related to interest rates, different metrics can be used to gauge the state of an economy and the monetary policy stance. Here are the details you might be looking for, broken down by the concept, an example indicator ID, and the type of indicator:
+
+1. **Interest Rate Indicator**: Federal Funds Rate
+   - **Indicator ID**:可能 referred to as "DFF" (Effective Federal Funds Rate)
+   - **Indicator Type**: Monetary Policy Indicator
+
+2. **Interest Rate Indicator**: Prime Rate
+   - **Indicator ID**: "Prime"
+   - **Indicator Type**: Market Interest Rate Indicator
+
+3. **Interest Rate Indicator**: 10-Year Treasury Yield
+   - **Indicator ID**: "DGS10" (10-Year Treasury Constant Maturity Rate)
+   - **Indicator Type**: Bond Market Indicator
+
+4. **Interest Rate Indicator**: LIBOR (London Interbank Offered Rate)
+   - **Indicator ID**: "USD1MD156N" for 1-Month USD LIBOR
+   - **Indicator Type**: Interbank Interest Rate Indicator
+
+5. **Interest Rate Indicator**: SOFR (Secured Overnight Financing Rate)
+   - **Indicator ID**: "SOFR"
+   - **Indicator Type**: Overnight Interest Rate Indicator
+
+6. **Interest Rate Indicator**: Mortgage Interest Rate
+   - **Indicator ID**: "MORTGAGE30US" for 30-Year Fixed Rate Mortgage Average
+   - **Indicator Type**: Consumer Interest Rate Indicator
+
+Each of these indicators provides insight into different segments of the financial markets and the economy:
+
+- **Monetary Policy Indicator**: Reflects the central bank's policy stance, such as the Federal Reserve's Federal Funds Rate.
+- **Market Interest Rate Indicator**: Reflects the actual rates at which banks lend to their customers, such as the Prime Rate.
+- **Bond Market Indicator**: Reflects investor expectations and can be an indicator of inflation expectations, such as the 10-Year Treasury Yield.
+- **Interbank Interest Rate Indicator**: Reflects the rate at which banks lend to each other, such as LIBOR or SOFR.
+- **Consumer Interest Rate Indicator**: Reflects the rates that consumers face for loans, such as mortgage rates.
+
+The specific IDs mentioned above, like "DFF" or "SOFR," are often used in databases like the Federal Reserve Economic Data (FRED) to uniquely identify and access the data series for these indicators.

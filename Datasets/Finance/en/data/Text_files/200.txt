@@ -1,0 +1,24 @@
+The credit card business revolves around the issuance of credit cards to customers, allowing them to make purchases on credit and pay for them over time, often with added interest if the balance is not paid in full each billing cycle. Consumption data on a credit card includes various pieces of information related to how the card is used. Below is an explanation of each term related to credit card consumption data:
+
+1. **Consumption Data**: This is the detailed information about each transaction made using a credit card. It includes where the transaction occurred, what was purchased, the amount spent, and sometimes the category of spending (e.g., groceries, dining, travel).
+
+2. **Consumption Amount**: This refers to the dollar value or the amount of currency that was spent on a particular transaction using the credit card. The consumption amount is a key piece of data used to calculate the balance due on the credit card.
+
+3. **Consumption Date**: This is the date on which the transaction occurred. The consumption date is important for a variety of reasons, including determining the posting order of transactions, the start of the grace period for payment, and the accurate calculation of interest charges if the balance is not paid in full.
+
+4. **Remaining Credit Limit**: This is the amount of credit that is still available for the cardholder to use on their credit card. The remaining credit limit is calculated by subtracting the current balance (the total amount of unpaid charges) from the total credit limit assigned to the card. As the cardholder uses their card, the remaining credit limit decreases. When a payment is made, the remaining credit limit increases accordingly.
+
+Below is an example of how these elements might appear in a credit card statement:
+
+```
+Account Number: XXXX-XXXX-XXXX-1234
+Statement Period: 01/01/2023 to 01/31/2023
+
+Transaction Date | Merchant Name | Consumption Amount | Remaining Credit Limit
+01/02/2023      | Grocery Store | $150.00             | $4,850.00
+01/15/2023      | Gas Station   | $60.00              | $4,790.00
+01/20/2023      | Clothing Shop | $250.00             | $4,540.00
+...
+```
+
+The credit card business uses this kind of data for various purposes, such as customer spending behavior analysis, fraud detection, credit risk assessment, and tailoring offers and promotions to the cardholder's spending habits. Additionally, customers can use this data to manage their personal finances, track spending, and ensure they stay within their budget and credit limit.

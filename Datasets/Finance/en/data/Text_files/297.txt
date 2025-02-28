@@ -1,0 +1,35 @@
+Cross-border revenue and expenditure in a business context refer to the flow of money into and out of a country due to trade and investment activities. This financial movement is a critical component of a nation's balance of payments and has significant implications for its economy. Below is a summary of relevant information regarding cross-border revenue and expenditure, along with the types of trade involved:
+
+### Trade Type
+
+1. **Import/Export of Goods**: This involves the physical movement of merchandise from one country to another.
+   
+2. **Services Trade**: This includes intangible economic activities such as banking, insurance, tourism, and other services provided across borders.
+
+3. **Foreign Direct Investment (FDI)**: This is when a company invests directly in a foreign country by establishing operations or acquiring tangible assets.
+
+4. **Portfolio Investment**: It includes investments in financial assets such as stocks, bonds, or other financial instruments that are likely to be sold rather than held indefinitely.
+
+5. **Remittances**: These are personal transfers of money from workers living abroad to their home countries.
+
+6. **Licenses and Franchises**: This trade type involves the transfer of rights to use intellectual property, brands, or business models across borders.
+
+### Total Amount of Cross-Border Expenditure
+
+The total amount of cross-border expenditure can be divided into the following components:
+
+- **Import of Goods**: The total value of goods purchased from other countries.
+- **Import of Services**: The total value of services purchased from foreign entities.
+- **Outward FDI**: The total amount invested by domestic entities in foreign countries.
+- **Outbound Portfolio Investment**: The total value of investments by domestic investors in foreign financial markets.
+- **Remittances Sent Abroad**: The total amount of money sent by workers to their home countries.
+
+### Relevant Summary Information
+
+- **Trade Balance**: The difference between the value of a country's exports and imports. A surplus indicates that a country exports more than it imports, while a deficit suggests the opposite.
+- **Current Account Balance**: This includes the trade balance, net income from abroad, and net current transfers. It reflects the net transfer of a country’s currency to other countries.
+- **Capital and Financial Account Balance**: This reports net change in ownership of national assets and includes FDI, portfolio investment, and other investments.
+- **Exchange Rates**: The value of one currency for the purpose of conversion to another, which affects cross-border transactions.
+- **Economic Policies**: Tariffs, quotas, and trade agreements can impact cross-border revenues and expenditures.
+
+To obtain the exact total amount of cross-border expenditure, one would typically look at a country's balance of payments report, which is usually published by the nation's central bank or statistical agency. The data can vary significantly from year to year and country to country, depending on economic conditions, trade policies, and global events.

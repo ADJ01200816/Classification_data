@@ -1,0 +1,21 @@
+An insurance contract is a legally binding agreement between two parties: the insurer and the insured. Below are explanations for the terms you've listed:
+
+1. **Insurer**: This is the insurance company that provides insurance coverage to the insured party. The insurer assumes the risk and agrees to compensate the insured for covered losses or damages in exchange for the payment of a premium.
+
+2. **Insured**: The insured is the individual or entity that is covered by the insurance policy. They are protected against financial losses specified in the insurance contract, subject to the terms and conditions of the policy.
+
+3. **Insurance Coverage**: This refers to the extent of protection provided by an insurance policy. It outlines what is covered by the insurance policy, such as property damage, liability, medical expenses, etc., and what is not covered (exclusions).
+
+4. **Insurance Liability Name**: This is the name of the person or entity that is insured under a liability insurance policy. In the event of a covered liability claim, this is the party that the insurance company will defend and potentially pay damages for, up to the policy limits.
+
+5. **Insurance Period**: This is the time duration for which the insurance policy is effective. Policies can range from short-term to long-term coverage, and this period is often referred to as the policy period or term.
+
+6. **Insurance Amount**: This is the maximum amount that the insurer is liable to pay under an insurance policy in the event of a claim. It can apply to a single event or the total amount the insurer will pay during the policy period.
+
+7. **Liability Premium**: This is the amount of money the insured pays to the insurer for the liability insurance coverage. Premiums are typically paid on an annual or periodic basis and are calculated based on various factors such as the level of risk, the insurance amount, and other policy features.
+
+8. **Rate**: In the context of insurance, the rate is the cost of insurance per unit of coverage, usually expressed as a dollar amount per thousand dollars of insurance coverage. Rates are determined by actuaries based on the risk profile of the insured and other underwriting factors.
+
+9. **Insurance Compensation**: This is the payment made by the insurer to the insured to cover a loss that is covered by the insurance policy. Compensation can come in various forms such as cash, repair, replacement, or reconstruction of the damaged property.
+
+10. **Payment Method**: This refers to the ways in which the insured can pay the insurance premium to the insurer. Payment methods may include cash, checks, credit/debit cards, automatic bank drafts, online payments, or other electronic funds transfer methods. The choice of payment method can sometimes affect the premium amount or the conditions of the insurance policy.

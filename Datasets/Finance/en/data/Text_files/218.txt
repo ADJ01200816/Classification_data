@@ -1,0 +1,27 @@
+It seems like you are referring to a detailed list of information that is typically included in an insurance policy document, as well as related reinsurance information. Here's what each term refers to:
+
+1. **Policy Number**: A unique identifier assigned by the insurance company to the insurance policy. This number is used for all transactions and communications related to the policy.
+
+2. **Insured Name**: The name of the individual or entity that is covered by the insurance policy. This is the party that is protected in case of a loss or damage as defined within the policy terms.
+
+3. **Insurance Subject Information**: Details about the item, property, life, or liability that is being insured. This could include descriptions such as make, model, serial number, location, or other relevant information that identifies what is covered.
+
+4. **Insurance Period**: The time span during which the insurance coverage is effective. This includes the start date and end date of the policy term.
+
+5. **Insurance Conditions**: The terms and conditions that govern the insurance policy, outlining what is covered, what is excluded, the obligations of the insured and the insurer, and how claims should be handled.
+
+6. **Insurance Amount**: The maximum amount of money that the insurance company will pay out under the policy in case of a covered event. This is also known as the "limit" of the insurance.
+
+7. **Insurance Premium Rate**: The rate used to calculate the cost of insurance. This rate can be based on various factors such as risk, age, health, value of the insured item, etc.
+
+8. **Insurance Premium**: The amount of money the insured pays to the insurance company in exchange for the coverage provided by the policy. This is typically paid either as a lump sum or in installments.
+
+9. **Reinsurance Contract Number**: A unique identifier for a reinsurance contract, which is an agreement between the original insurer and a reinsurer. The reinsurer agrees to take on a portion of the risk and potential claims in exchange for a share of the premium.
+
+10. **Retention Amount**: The amount of risk that the original insurer retains for itself and does not transfer to the reinsurer. This is the amount that the insurer will have to pay out of its own funds before the reinsurance coverage takes effect.
+
+11. **Reinsurance Amount**: The amount of coverage provided by the reinsurance policy, which is the amount the reinsurer will pay out in the event of a claim that exceeds the retention amount.
+
+12. **Reinsurance Premium**: The amount of money the insurer pays to the reinsurer for the reinsurance coverage. This is essentially the cost for the insurer to transfer a portion of the risk to the reinsurer.
+
+This information is critical for both the insured and the insurer to understand the specifics of the coverage provided and the financial arrangements associated with the policy and any reinsurance contracts.

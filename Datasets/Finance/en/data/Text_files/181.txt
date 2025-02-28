@@ -1,0 +1,15 @@
+In the context of contracts or financial agreements, "default type," "default date," and "default penalty payment ratio" are terms that relate to the occurrence of a default and the consequences thereof. Here's what they typically mean:
+
+1. **Default Type**: This refers to the kind of default that has occurred under the terms of a contract or loan agreement. Defaults can come in various forms, such as:
+
+   - Payment default: Failure to make a payment when it is due.
+   - Technical default: Failure to comply with the terms of the loan agreement that do not necessarily involve a payment, such as failing to maintain necessary insurance.
+   - Covenant default: Breach of a covenant (a contractual promise) in a bond or loan agreement, which might not always involve a missed payment but could relate to other terms, like maintaining certain financial ratios.
+   
+   The default type dictates the actions the lender or the non-defaulting party may take according to the contract's terms.
+
+2. **Default Date**: This is the specific date on which a default officially occurs, typically when a payment or action was due and was not made or taken. The default date is significant because it often triggers certain contractual rights and obligations, including the start of any applicable grace period and the initiation of any penalty or remedial measures detailed in the contract.
+
+3. **Default Penalty Payment Ratio**: This term refers to the percentage or amount that a borrower may be required to pay as a penalty for defaulting on a loan or contract. This ratio could be a flat fee, a percentage of the outstanding balance, or a figure calculated based on a specific formula outlined in the loan or contract terms. The penalty payment is intended to compensate the lender for the inconvenience and potential risk associated with the default.
+
+For example, if a borrower defaults on a loan, the agreement might stipulate that they must pay a penalty equivalent to 5% of the outstanding loan balance or a specific sum as a penalty for the default. The exact terms would be detailed in the loan agreement and would depend on the jurisdiction's laws, the type of loan, and the negotiations between the lender and borrower.

@@ -1,0 +1,27 @@
+These terms are commonly used in the context of digital services and e-commerce in China. Below is a brief explanation of each:
+
+1. **Webpage**: A single page on the internet that is usually part of a larger website. It contains specific information or functionalities and is accessed via a URL.
+
+2. **App**: Short for "application," this refers to a software program designed to perform specific functions directly for an end-user. Apps are commonly used on smartphones and tablets.
+
+3. **WeChat Official Account**: A type of account on the WeChat platform that allows brands, businesses, and organizations to interact with users. It can send messages, share posts, and offer services.
+
+4. **WeChat Applet**: Mini-programs within the WeChat ecosystem that provide various services and functionalities without the need to download and install separate apps. They are accessible via the WeChat app.
+
+5. **Online Banking**: A service provided by banks that allows customers to conduct financial transactions on the internet using a secure website or app.
+
+6. **Mobile Banking**: Similar to online banking, this service allows customers to perform banking transactions using their mobile devices, either through a web browser or a dedicated app.
+
+7. **Insurance Online Mall**: An online platform where customers can browse and purchase various insurance products. It operates similarly to an e-commerce store but specifically for insurance.
+
+8. **Website**: A collection of webpages and associated content that is hosted on one or more web servers and can be accessed via a domain name.
+
+9. **Installation Package**: A file or collection of files that contain software ready to be installed on a device. It often includes all the necessary files and instructions for installation.
+
+10. **Download Link**: A URL that leads to a file stored on the internet, which can be downloaded to a local device. This is commonly used for software, documents, and other digital content.
+
+11. **QR Code**: A two-dimensional barcode that can be scanned by a digital device (such as a smartphone) to access information, open a webpage, or perform various actions like payments or authentication.
+
+12. **Service Items**: This refers to the individual services offered by a business or organization. For example, in a bank, service items could include account opening, money transfer, loan application, etc.
+
+Each of these terms plays a crucial role in the digital and financial landscape, especially in China where digital services are highly integrated into daily life.

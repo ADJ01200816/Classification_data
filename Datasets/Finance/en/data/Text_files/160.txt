@@ -1,0 +1,36 @@
+In financial and banking systems, transaction information and settlement customer tags are essential components used to process and track various types of transactions. Below, we'll break down what unit transaction information and settlement customer tags are:
+
+### Unit Transaction Information:
+
+Unit transaction information refers to the detailed data associated with a single transaction. This includes, but is not limited to, the following elements:
+
+- **Transaction ID**: A unique identifier assigned to each transaction.
+- **Date and Time**: The exact date and time when the transaction was initiated.
+- **Transaction Type**: The nature of the transaction (e.g., deposit, withdrawal, transfer, payment, etc.).
+- **Amount**: The monetary value of the transaction.
+- **Currency**: The type of currency used in the transaction.
+- **Sender/Receiver Information**: Details of the parties involved, such as account numbers, names, or other identifiers.
+- **Fees and Commissions**: Any charges associated with the transaction.
+- **Status**: The current state of the transaction (e.g., pending, processed, cancelled, failed, etc.).
+- **Description**: Additional details or a memo regarding the transaction.
+
+This information is crucial for record-keeping, compliance with regulations, auditing, and for providing a clear trail of financial activity.
+
+### Settlement Customer Tags:
+
+Settlement customer tags are identifiers or labels used to categorize transactions for specific customers or types of customers during the settlement process. These tags serve several purposes:
+
+- **Customer Identification**: Tags help to quickly identify the customer involved in the transaction, which can be important for account management and customer service.
+- **Regulatory Compliance**: Tags may be used to ensure compliance with anti-money laundering (AML) and know your customer (KYC) regulations.
+- **Customized Processing**: Certain transactions may require special handling or routing procedures. Tags can be used to flag these transactions for customized processing.
+- **Reporting and Analysis**: Tags assist in generating reports for various purposes, such as financial reporting, tax reporting, or for internal analysis to understand customer behavior and preferences.
+
+Customer tags might include:
+
+- **Customer ID**: A unique identifier for the customer.
+- **Account Type**: Differentiating between personal, business, or other types of accounts.
+- **Risk Category**: Indicating the risk level associated with the customer or transaction (e.g., high-value transactions, foreign transactions).
+- **Tax Status**: Information relevant for tax purposes, such as VAT number or tax residency.
+- **Product Type**: If the transaction relates to a specific financial product or service.
+
+Both unit transaction information and settlement customer tags are integral to the accurate processing and management of transactions within a financial institution. They help facilitate efficient operations, risk management, customer service, and compliance with legal and regulatory requirements.

@@ -1,0 +1,17 @@
+Enterprises and institutions, regardless of whether they are in the public or private sector, have financial management systems that include various processes and terminologies. Here's an explanation of the terms you've mentioned:
+
+1. **Budget Execution**: This refers to the implementation of the approved budget, where the financial plan is put into action. It involves the process of allocating funds according to the budgetary allocations for different activities, programs, or departments within an organization. Efficient budget execution ensures that financial resources are utilized effectively and in line with the organization's goals.
+
+2. **Working Capital Disbursement**: Working capital is the capital that a company uses in its day-to-day operations. Disbursement of working capital involves the actual payment of funds for operational expenses such as salaries, utility bills, raw materials, etc. Efficient management of working capital is crucial for maintaining liquidity and the smooth operation of an organization.
+
+3. **Year-End Consolidation**: This is a process that takes place at the end of a fiscal year. It involves consolidating the financial statements of all subsidiaries and branches of a company to present a comprehensive financial picture of the entire organization. This is essential for reporting purposes, tax compliance, and strategic decision-making.
+
+4. **Financial Management Information**: This refers to the data and information used by management to make financial decisions. It includes financial reports, budgetary data, cash flow statements, and other key financial ratios and metrics. This information is critical for planning, controlling, and decision-making within an organization.
+
+5. **Budget Approval Amount**: This is the total amount of funding that has been officially approved for a given period, typically a fiscal year. The budget approval amount is the ceiling for spending that the organization or department has to adhere to, unless there are formal procedures in place to修订 the budget.
+
+6. **Budget Execution Rate**: Also known as the budget implementation or execution ratio, this is a financial metric that measures the extent to which the budget has been spent or executed over a certain period. It is usually expressed as a percentage of the budgeted amount that has been spent. The formula is:
+
+   \[ \text{Budget Execution Rate} = \left( \frac{\text{Actual Expenditures}}{\text{Budget Approval Amount}} \right) \times 100\% \]
+
+A high budget execution rate does not necessarily indicate effective financial management. It must be analyzed in the context of the organization's goals, the timing of the expenditures, and other factors such as cost control and efficiency.

@@ -1,0 +1,11 @@
+Cross-border guarantee refers to a form of guarantee provided by a guarantor outside the country where the creditor and debtor are located. This type of guarantee is commonly used in international trade and financing transactions where parties may have concerns about credit risk or the enforceability of judgments across different jurisdictions.
+
+Here's an explanation of the terms you've mentioned:
+
+1. **Cross-border guarantee**: It's a contractual obligation by a third party (the guarantor), typically a bank or a financial institution, to pay an amount of money to a creditor if the debtor fails to fulfill their contractual obligations. In the context of cross-border transactions, the guarantor might be located in a different country than the debtor and creditor, adding an international dimension to the guarantee agreement.
+
+2. **Cross-border guarantee declaration number**: This is a unique identifier assigned to a cross-border guarantee when it is declared to customs or regulatory authorities. This number is used for tracking and identification purposes. The specific process and requirements for the declaration number can vary by country and the nature of the transaction. For example, in China, when a guarantee is provided for cross-border transactions, a declaration number might be assigned by the relevant regulatory authority as part of the process to manage and monitor such guarantees.
+
+3. **Cross-border guarantee amount**: This is the maximum amount of money that the guarantor agrees to pay to the creditor in the event that the debtor defaults on their obligations. The guarantee amount is an essential term of the guarantee agreement and determines the extent of the guarantor's liability. This amount can be the total amount of the underlying transaction or a percentage thereof, depending on the terms agreed upon by the parties involved.
+
+In practice, cross-border guarantees must comply with the laws and regulations of the jurisdictions involved, and they often require coordination between legal systems. They may also involve complex issues such as the recognition of foreign judgments, choice of law, and enforcement of the guarantee in the event of a default.

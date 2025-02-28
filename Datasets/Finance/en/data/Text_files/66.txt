@@ -1,0 +1,45 @@
+When filling out a form or creating a record for unit contact information, you would typically include the following details:
+
+**Unit Contact Information Data:**
+
+- **Unit Name:** The name of the department, office, or unit.
+- **Below is the breakdown of the specific contact information fields:**
+
+**Contact Phone Number:**
+- This is the primary phone number for the unit. It should include the country code, area code, and the local number. Example: +1 (555) 123-4567
+
+**Contact Person:**
+- The name of the person who is the primary contact for the unit. This is usually the person responsible for answering inquiries or handling issues related to the unit.
+- Example: John Doe
+
+**Communication Address:**
+- This is the physical or mailing address where correspondence can be sent. It should include all necessary details such as the street address, city, state/province, postal code, and country.
+- Example:
+  - Street Address: 123 Business Rd.
+  - City: Cityville
+  - State/Province: State/Province Code
+  - Postal Code: 12345
+  - Country: Country Name
+
+Below is a formatted example of how this information might be presented:
+
+---
+
+**Unit Contact Information**
+
+**Unit Name:** Sales Department
+
+**Contact Phone Number:** +1 (555) 123-4567
+
+**Contact Person:** John Doe
+
+**Communication Address:**
+Sales Department
+123 Business Rd.
+Cityville, State/Province Code
+12345
+Country Name
+
+---
+
+Ensure that the information provided is accurate and up-to-date to facilitate effective communication.

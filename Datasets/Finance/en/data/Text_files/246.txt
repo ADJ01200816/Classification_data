@@ -1,0 +1,21 @@
+Deposit insurance business is a system that protects depositors' funds in banks and other financial institutions in the event of bank failures. This system is typically managed by a government or a separate regulatory body. Participating financial institutions are those that have enrolled in the deposit insurance program and pay premiums to the insurance scheme in exchange for the protection it offers to their customers.
+
+Here's a breakdown of the elements you mentioned:
+
+1. **Participating Financial Institutions**: These are the banks and sometimes other types of financial entities that are covered by the deposit insurance system. They must meet certain criteria to be eligible for the insurance.
+
+2. **Institutional Rating**: This refers to the assessment of a financial institution's creditworthiness, financial health, and operational stability. Ratings are usually provided by independent rating agencies and can impact the institution's ability to attract customers and investors, as well as its cost of borrowing.
+
+3. **Information**: This encompasses all the data and details regarding the financial institution's business practices, financial statements, risk management systems, compliance records, and other relevant factors that contribute to its evaluation and rating.
+
+4. **Total Score of Institutional Rating**: This is a numerical score derived from the evaluation of the participating institution based on the rating criteria established by the rating agency or regulatory body. The score is a reflection of the institution's performance across various dimensions such as capital adequacy, asset quality, management, earnings, liquidity, and sensitivity to market risk.
+
+5. **Corresponding Level**: Once the total score is calculated, it is mapped to a corresponding level or category that indicates the quality of the institution's rating. These levels can vary but commonly include the following categories:
+
+   - AAA or Aaa: The highest rating indicating excellent creditworthiness.
+   - AA, Aa, A: Indicates high creditworthiness with only slight differences between each category.
+   - BBB, Bb, B: This is the lowest investment-grade category, indicating moderate creditworthiness.
+   - BB, B, CCC, CC, C: Non-investment grade or "junk" status, indicating substantial credit risk.
+   - D: In default or in breach of contract.
+
+The specific rating levels and the thresholds for the total score can differ from one rating system to another. The deposit insurance agency may use the institutional rating to determine the risk profile of a financial institution and adjust the premiums it charges accordingly.

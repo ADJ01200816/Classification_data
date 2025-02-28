@@ -1,0 +1,21 @@
+Credit rating agencies are organizations that assess the creditworthiness of issuers of debt instruments, such as bonds and loans. They provide ratings that indicate the likelihood that the issuer will be able to meet its financial obligations. The credit ratings provided by these agencies are used by investors to make decisions about purchasing bonds or other fixed-income securities.
+
+### Number of Credit Rating Agencies
+
+There are several well-known, internationally recognized credit rating agencies, often referred to as the "Big Three," which dominate the market:
+
+1. Standard & Poor's (S&P)
+2. Moody's Investors Service
+3. Fitch Ratings
+
+However, there are also many other smaller and specialized credit rating agencies around the world that provide ratings for various types of debt and other financial instruments. The exact number of credit rating agencies globally can be difficult to pinpoint as it can include a wide range of smaller and niche players that may operate in specific regions or sectors. It is not uncommon for there to be dozens of recognized credit rating agencies worldwide.
+
+### Credit Rating Information Entry Time
+
+The time it takes for credit rating information to be entered into a system after an assessment is completed varies and can depend on several factors, including the agency's processes and the complexity of the credit instrument being rated. Once a rating is determined, here is a general idea of the timeline:
+
+- **Initial Assessment**: This can take anywhere from a few weeks to several months, depending on the complexity of the issuer's financials and operations.
+- **Rating Release**: Once the assessment is complete, the rating is typically released to the public immediately or very shortly thereafter. This often happens simultaneously with the announcement of a new debt issuance or periodically for ongoing surveillance of existing ratings.
+- **Entry into Systems**: The credit rating information is usually entered into the rating agency's systems and published on their website on the same day as the release. It can also be distributed to financial data platforms and other subscribers immediately or within a few hours.
+
+Investors, financial institutions, and regulators often have access to this information almost in real-time due to the electronic dissemination methods used by the rating agencies. However, the specific timeline for when the credit rating becomes available in all systems and databases can vary slightly due to the differing update frequencies of these systems.

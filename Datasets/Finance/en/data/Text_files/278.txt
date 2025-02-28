@@ -1,0 +1,19 @@
+When you refer to a "registered legal entity," you're talking about an organization that has been formally established and recognized under the laws of a particular country or state. This recognition typically involves a registration process with a government authority that oversees businesses and other legal entities.
+
+A "global legal entity identification code" (LEI) is a unique identifier for legal entities participating in financial transactions. It is designed to be a global standard and is used to identify legal entities across different jurisdictions. The LEI is a 20-character code that consists of numbers and letters, and it is assigned by a Local Operating Unit (LOU) accredited by the Global LEI System (GLEIS).
+
+Below, I'll describe the components of the information you've requested:
+
+1. **Registered Legal Entity**: This would be the official name of the company or organization as recognized by the jurisdiction in which it is registered.
+
+2. **Global Legal Entity Identification Code (LEI)**: This is the LEI code assigned to the legal entity, which can be used to look up information about the entity in various financial and regulatory databases.
+
+3. **Establishment Date**: This is the date on which the legal entity was officially established or incorporated. This date can often be found in the entity's registration documents or certificate of incorporation.
+
+To provide you with an actual example, I would need the specific details of a registered legal entity. However, here is a general template for how the information might appear:
+
+- Registered Legal Entity: "ABC Corporation"
+- Global Legal Entity Identification Code: "5493000N1JX9Q8H8X3P0"
+- Establishment Date: "2001-05-15"
+
+Please note that the LEI code and the establishment date are specific pieces of information that must be obtained through official records or databases, depending on the jurisdiction of the legal entity. If you have a particular legal entity in mind and you want to find its LEI and establishment date, you would typically search the relevant business registry or use LEI lookup services provided by the GLEIS.

@@ -1,0 +1,31 @@
+These terms are related to modern banking services and the various channels through which financial institutions interact with their customers. Below is an explanation of each term:
+
+1. **Online Banking**: A service that allows customers to conduct financial transactions and manage their bank accounts over the internet using a desktop or laptop computer. Customers can access their accounts, transfer funds, pay bills, and view statements online.
+
+2. **Mobile Banking App**: A smartphone application provided by a financial institution that allows customers to perform banking transactions and manage their accounts from their mobile devices. This includes features like checking balances, depositing checks, and sending money.
+
+3. **Counter**: Refers to the traditional banking service where customers conduct transactions in person at a bank branch with the assistance of a bank teller. This includes activities like depositing checks, withdrawing cash, saving money, etc.
+
+4. **Customer Manager**: A bank employee who is responsible for managing relationships with a portfolio of customers. They provide financial advice, assist with complex transactions, and help resolve issues that may arise.
+
+5. **Remote Banking**: A broad term that includes any form of banking where the customer and the bank do not interact face-to-face. This can include online banking, mobile banking, and other electronic channels.
+
+6. **Email**: A communication channel used by financial institutions to send notifications, statements, and other important information to customers. Customers can also use email to communicate with their bank for inquiries or assistance.
+
+7. **SMS**: Short Message Service, commonly known as text messaging. Banks use SMS to send customers alerts, transaction notifications, and other important messages.
+
+8. **Social Networks**: Platforms such as Facebook, Twitter, and LinkedIn that financial institutions use for marketing, customer service, and engagement with their customer base.
+
+9. **Auxiliary Channels**: Additional channels that support the main banking channels. These can include IVR (Interactive Voice Response) systems, chatbots, and other automated services that assist customers.
+
+10. **Financial Institutions**: Organizations that provide financial services to customers, including banks, credit unions, and investment firms.
+
+11. **Products**: The range of financial products offered by banks, such as savings accounts, checking accounts, loans, mortgages, credit cards, and investments.
+
+12. **Services**: The various services provided by financial institutions, including transaction processing, wealth management, financial planning, and currency exchange.
+
+13. **Visit Time and Location**: This refers to the data collected by banks regarding when and where customers visit bank branches. This information can be used to improve service quality and branch efficiency.
+
+14. **Web Browsing Habits**: The patterns and behaviors of customers when they are browsing the internet, which can include how often they visit their bank's website, what pages they view, and how long they stay on the site.
+
+15. **App Browsing Habits**: Similar to web browsing habits, but specifically related to how customers interact with their bank's mobile app. This includes frequency of use, features used most often, and the duration of each session. This data can help banks improve their app's functionality and user experience.

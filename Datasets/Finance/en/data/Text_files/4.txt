@@ -1,0 +1,26 @@
+When referring to a location, the terms you mentioned—country, city, region, street, longitude, and latitude—are used to provide specific details about where a particular place is situated on Earth. Here's a brief explanation of each term:
+
+1. Country: The largest geographic subdivision. It typically has its own government and is recognized as an independent political entity.
+   
+2. City: A large town or urban area that is usually a significant economic and cultural center within its region or country.
+
+3. Region: An area that has some common characteristics, such as geographically, culturally, or politically. It is larger than a city but smaller than a country.
+
+4. Street: A public road in a city, town, or village, typically with houses and buildings on one or both sides.
+
+The following are geographic coordinates that specify a location on the Earth's surface:
+
+5. Longitude: A system of imaginary lines that run from the North Pole to the South Pole. These lines are used to measure east-west position. The Prime Meridian (0° longitude) runs through Greenwich, England.
+
+6. Latitude: A system of parallel lines that circle the Earth, measuring north-south position. The Equator (0° latitude) is the starting point for measuring latitude, with the poles being at 90° north and 90° south.
+
+Current location usually refers to the place where someone or something is at a given moment. When providing the current location, you can use any or all of the terms above to give a precise address or coordinates. For example:
+
+- Country: China
+- City: Beijing
+- Region: Chaoyang District
+- Street: Wangfujing Street
+- Longitude: 116.4074° E
+- Latitude: 39.9042° N
+
+This detailed information allows you to pinpoint the location accurately.

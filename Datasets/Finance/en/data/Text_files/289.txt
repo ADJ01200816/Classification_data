@@ -1,0 +1,48 @@
+Real estate indicators are metrics used to assess the health and trends of the real estate market. Below are some common real estate indicators along with their typical frequency of publication:
+
+1. **Home Price Index (HPI)**
+   - **Frequency**: Monthly or Quarterly
+
+2. **S&P/Case-Shiller Home Price Indices**
+   - **Frequency**: Monthly (released with a lag, e.g., the February data is usually released in late March)
+
+3. ** Existing Home Sales**
+   - **Frequency**: Monthly
+
+4. **New Home Sales**
+   - **Frequency**: Monthly
+
+5. **Housing Starts**
+   - **Frequency**: Monthly
+
+6. **Building Permits**
+   - **Frequency**: Monthly
+
+7. **Pending Home Sales Index**
+   - **Frequency**: Monthly
+
+8. **Median Home Prices**
+   - **Frequency**: Monthly or Quarterly
+
+9. **Days on Market (DOM)**
+   - **Frequency**: Monthly or Quarterly
+
+10. **Inventory of Homes for Sale**
+    - **Frequency**: Monthly or Quarterly
+
+11. **Mortgage Rates**
+    - **Frequency**: Weekly
+
+12. **Foreclosure Rates**
+    - **Frequency**: Monthly or Quarterly
+
+13. **Homeownership Rate**
+    - **Frequency**: Annually (though some sources might provide quarterly data)
+
+14. **Rental Vacancy Rate**
+    - **Frequency**: Quarterly
+
+15. **Commercial Real Estate Indices (e.g., NCREIF Property Index - NPI)**
+    - **Frequency**: Quarterly
+
+The frequency can vary depending on the data provider and the country in question. In the United States, for example, many of these indicators are released by federal agencies such as the U.S. Census Bureau and the Department of Housing and Urban Development, while others might be compiled and published by private entities such as S&P Global.

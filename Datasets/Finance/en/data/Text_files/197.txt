@@ -1,0 +1,40 @@
+The banking, investment, and wealth management sectors are key components of the global financial system. Each of these areas deals with different financial products and services aimed at managing money, mitigating risk, and generating returns for clients and institutions. Below is an overview of each along with the mentioned financial instruments and products:
+
+### Banking:
+Banking institutions offer a variety of services including accepting deposits, providing loans, facilitating payments, and securing savings. They also engage in:
+
+- **Money Market Instruments:** These are debt instruments with a maturity period of less than one year. They are highly liquid and include:
+  - **Treasury Bills:** Short-term government securities.
+  - **Commercial Paper:** Unsecured promissory notes issued by corporations.
+  - **Certificates of Deposit (CDs):** Time deposits with a fixed maturity date and interest rate.
+  - **Repurchase Agreements (Repos):** Sale of securities with an agreement to repurchase them at a future date.
+
+### Investment:
+Investment firms and divisions manage assets on behalf of clients, aiming to achieve growth and income over time. They deal with a range of investment products:
+
+- **Bonds:** Debt instruments that represent a loan made by an investor to a borrower (typically corporate or government). They pay interest over a fixed period and return the principal at maturity.
+  - **Corporate Bonds:** Issued by companies.
+  - **Municipal Bonds:** Issued by state and local governments.
+  - **Treasury Bonds:** Issued by the government.
+  
+- **Non-standard Assets:** These are investments that do not fall into the traditional categories such as stocks, bonds, or cash. They include:
+  - **Real Estate:** Direct property investments or Real Estate Investment Trusts (REITs).
+  - **Private Equity:** Investments in non-publicly traded companies.
+  - **Hedge Funds:** Pooled investment funds that can use a variety of strategies to generate returns.
+  - **Commodities:** Tangible investments like gold, oil, and agricultural products.
+
+### Wealth Management:
+Wealth managers provide comprehensive financial services to high-net-worth individuals, including investment advice, estate planning, and legal expertise. They often deal with complex investments and strategies.
+
+### Public Funds:
+These are funds collected by governments through taxes and other means to be used for public expenditures and services. They can also refer to mutual funds that are open to the general public for investment.
+
+### Financial Derivatives:
+These are financial contracts whose value is derived from the value of an underlying asset, which can be a stock, bond, commodity, currency, or market index. Types of derivatives include:
+
+- **Options:** Gives the holder the right, but not the obligation, to buy (call) or sell (put) an underlying asset at a predetermined price.
+- **Futures:** Obligates the buyer to purchase an asset, or the seller to sell an asset, on a set date in the future at a predetermined price.
+- **Swaps:** Exchange of cash flows or other financial instruments between parties.
+- **Forwards:** Customized contracts between two parties to buy or sell an asset at a specified price at a future date.
+
+Understanding these instruments and the business of banking, investment, and wealth management is crucial for anyone involved in the financial markets, as they facilitate the flow of capital and the transfer of risk. Each of these areas requires careful risk management and regulatory compliance to ensure the stability and integrity of the financial system.

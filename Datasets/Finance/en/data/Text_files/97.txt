@@ -1,0 +1,34 @@
+These terms are commonly used in financial contexts, particularly in relation to loans and credit where payments are expected by certain dates. Below is an explanation of each term:
+
+1. Overdue Date:
+The overdue date refers to the date by which a payment or debt was supposed to have been paid but wasn't. It marks the beginning of the period for which the payment is late. In other words, it's the original due date for the payment that has now passed without the欠 amount being settled.
+
+2. Overdue Amount:
+The overdue amount is the total amount of money that has not been paid by the due date. This amount includes any principal, fees, or other charges that were due and have not been paid as of the overdue date.
+
+3. Overdue Days:
+Overdue days represent the number of days that have passed since the payment was originally due (the overdue date) and the current date or the date when the payment is eventually made. This number is used to calculate penalty interest or late fees that may be assessed for the late payment.
+
+4. Penalty Interest Rate:
+The penalty interest rate is the rate of interest that is charged on top of the regular interest rate as a penalty for late payment. This rate is typically higher than the standard interest rate and is meant to incentivize borrowers to pay on time.
+
+5. Penalty Interest Amount:
+The penalty interest amount is the actual dollar amount of interest that is charged as a penalty for the late payment. It is calculated based on the overdue amount and the penalty interest rate, usually multiplied by the number of overdue days.
+
+6. Overdue Interest Amount:
+The overdue interest amount is the total amount of interest that has accrued on the overdue balance. This includes any interest that has accumulated not only as a penalty but also any regular interest that continues to accrue on the unpaid balance from the due date until the payment is made.
+
+To summarize with an example:
+If you have an overdue amount of $1,000, the overdue date was 30 days ago, the penalty interest rate is 5% per annum, and the normal interest rate is 3% per annum, you can calculate the penalty interest amount and the overdue interest amount as follows:
+
+Penalty Interest Amount:
+Penalty interest for 30 days = Overdue Amount x (Penalty Interest Rate/365) x Overdue Days
+= $1,000 x (5%/365) x 30
+= approximately $4.11
+
+Overdue Interest Amount (including regular interest):
+Total interest for 30 days = Overdue Amount x ((Penalty Interest Rate + Normal Interest Rate)/365) x Overdue Days
+= $1,000 x ((5% + 3%)/365) x 30
+= approximately $8.22
+
+Note that in practice, the calculation might differ based on the terms and conditions set by the lender, such as how they compound interest or if there are minimum charges.

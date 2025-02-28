@@ -1,0 +1,302 @@
+Personal basic profile information
+Personal property information
+Personal contact information
+Personal health and physiological information
+Personal geographic location information
+Personal educational information
+Personal occupational information
+Personal Qualification Certificate Information
+Personal Party and Government Information
+Traditional identification information for personal identity
+Weak privacy biometric information
+Strong privacy biometric information
+Identifying auxiliary information
+Personal credit information
+Personal judicial information
+Personal relationship information
+Personal Public Private Relationship Information
+Personal behavior information
+Personal basic tag information
+Personal relationship label information
+Personal signing label information
+Personal transaction tag information
+Personal behavior label information
+Personal marketing service label information
+Personal risk label information
+Personal value tag information
+Basic Overview Information of the Unit
+Shareholder Information
+Management Information
+Unit contact information
+Unit financial information
+Traditional identification information for unit identity
+Enterprise credit information
+Corporate Judicial Information
+Enterprise tax information
+Enterprise Business Information
+Inter unit relationship information
+Information on Public Private Relationships of Units
+Unit behavior information
+Basic label information of the unit
+Unit relationship label information
+Unit signing label information
+Unit transaction label information
+Unit behavior label information
+Unit marketing label information
+Unit risk label information
+Unit Value Label Information
+Basic Account Information
+Amount information
+Media information
+Freeze information
+Unique account information
+Basic wallet information
+Basic Contract Information
+Basic Deposit Information
+Interest calculation information
+Basic loan information
+Credit information
+Guarantee Information
+Release repayment information
+Overdue information
+Extension information
+Advance payment information
+Default Information
+Collection information
+Intermediate basic information
+Consulting intermediary business information
+Intermediate transaction business information
+Fund custody intermediary business information
+Payment and settlement intermediary business information
+Intermediate business information related to guarantee commitments
+Intermediary business information of proxy class
+Bank card business information
+Other types of intermediate business information
+Basic information of funds
+Interbank fund exchange information
+Self operated fund investment information
+Investment banking business information
+Custody business information
+Investment and financial information
+Basic information of credit card
+Withdrawal information
+Consumer Information
+Installment information
+Basic information of non bank payments
+Signing Information
+Basic Policy Information
+Policy liability information
+Property insurance subject information
+Information on the subject matter of liability insurance
+Information on the subject matter of credit guarantee insurance
+Information on Special Risk Targets
+Underwriting Information
+Preservation and correction information
+Sales channel expense information
+Policy loan information
+Claims case information
+Claims investigation information
+Compensation result information
+Reinsurance Contract Information
+Reinsurance business details information
+Reinsurance claim information
+Reinsurance billing information
+Trust product information
+Trust fundraising information
+Trust application information
+Inherent business information
+Information on Debt Transfer Contract
+Asset information
+Classification assessment rating information
+International Cooperation Information
+Administrative supervision information
+Investigating and coordinating information
+Questionnaire survey information
+Information communication
+Anti money laundering publicity and training information
+National Treasury Revenue and Expenditure Information
+Treasury bond issuance and redemption information
+Cash management information
+Banknote processing information
+Issuance of Fund Management Information
+Gold Import and Export Management Information
+Currency management information
+Counterfeit currency management information
+Information on physical management of gold and silver
+Warehouse management information
+Small denomination reservation information
+Deposit insurance premium collection information
+Rating information of deposit insurance participating institutions
+Non resident identity information verification information
+Resident ID card verification information
+Invalid Resident Identity Card Verification Information
+Objection feedback information
+Personal credit reporting agency manages information
+Enterprise credit reporting agency management information
+Event announcement information
+Credit rating information
+Credit and Rights Protection Information
+Credit system construction management information
+Financial Credit Database Management Information
+Announcement reminder information
+Review information on reserve fund indicators
+Risk reserve indicator review information
+Review information on cost-benefit indicators for non bank payment institutions
+Non bank payment institution business indicator review information
+Audit information on asset liability indicators of non bank payment institutions
+Off balance sheet business information
+Deposit information for fiscal deposits
+Open market business information
+Expense account information
+Ordinary transfer information
+Deposit information of RMB reserve fund
+Special deposit information
+Local business information
+Foreign exchange accounting information
+Cash and Fund Issuance Information
+Re loan information
+Rediscount information
+Accounting adjustment information
+Important blank voucher management information
+LEI registration information
+LEI Data Release Information
+Basic information of institutional business application
+Management information of institutional business license certificate
+Achievement review information
+Annual inspection information of institutions
+Limit management information
+Management information for refinancing business
+Rediscount business management information
+Indicator management information
+Exchange rate information
+Real estate data processing information
+Real estate market analysis information
+Real estate survey information
+Public opinion collection information
+Hotspot Summary Information
+Application Information for Matters
+Approval information for matters
+Currency purchase and sale business information
+Revenue and expenditure business (including summary) information
+Cross border investment and financing business information
+Cross border guarantee business information
+Cross border banking entity business information
+Cross border bidirectional fund pool business information
+Interest rate and exchange rate information
+Node information
+Revoke cross-border business information
+Omitting or delaying business information
+Consultation and Complaint Management Information
+Inclusive Financial Information
+Inclusive finance indicator management information
+Case Management Information
+Consumer Education Information
+Electronic Announcement Management Information
+Supervision and inspection information
+Indicator analysis information
+Report processing information
+Basic transaction information
+Transaction amount information
+Counterparty information
+Transaction settlement information
+Transaction accounting information
+Insurance fee information
+Insurance compensation and payment information
+New product (project) research and development information
+Basic Product Information
+Classification information
+Feature information
+Management Information
+Offline self owned channel information (publicly available)
+Online self owned channel information (publicly available)
+Third party agency channel information (public)
+Channel management information
+Marketing Information (Public)
+Marketing information (non-public)
+Marketing Management Information
+Service Management Information
+Technical security information
+Physical security information
+Parameter/Indicator Operation and Maintenance Information
+Counter service information
+Telephone service information
+Network service information
+Document design information
+Document storage information
+Document issuance information
+Document verification information
+Daily management information of documents
+Basic information of cooperative units
+Contact information of cooperative units
+Collaboration Content Information
+Unique information of cooperative units
+Customer and regulatory related audio and video information
+Daily management of related audio and video information
+Quantitative indicators of risk appetite
+Risk preference non quantitative indicators
+Risk resistance level information
+Risk preference deviation information
+Risk mitigation information
+Risk identification information
+Risk measurement information
+Risk monitoring information
+Risk control information
+Blacklist information
+Planning Information
+Quality Management Information
+Development Information
+Test information
+Configuration information
+Office software resources
+Information Asset Management Information
+Data dictionary information
+Security management information
+Run log information
+System operation and maintenance information
+Marketing planning information
+Financial planning information
+Human resource demand planning information
+Brand Strategy Planning Information
+Business Development Planning Information
+Personnel recruitment registration information
+Recruitment and Examination Information for Personnel
+General employee information (public)
+Employee information (non-public)
+Archive management information
+Job role information
+Training and Qualification Information
+Skill information
+Performance information
+Salary information
+Basic Information (Public)
+Basic information (non-public)
+Hierarchical information
+Classification information
+Document information
+Financial accounting information
+Financial management information of enterprises and institutions
+Infrastructure financial management information
+Management accounting information
+Financial expenditure information
+Tax information
+Internal fund transaction information
+Payment settlement summary information
+Summary information of fund channel circulation
+Treasury Management Information
+Interest rate management information
+Asset liability management information
+Party Discipline Inspection Information
+Union Information
+Articles of Association and System Information
+Disclosure of Information
+Official document information
+Email information
+Compliance Information
+Internal Audit Information
+Legal Information
+Regulatory indicator reporting information
+Regulatory detailed data reporting information
+Financial statistical information
+Evaluation, punishment, and violation information
+Statistical analysis information
+Warning information

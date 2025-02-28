@@ -1,0 +1,35 @@
+When discussing personal risk information and high-risk customer tags, it's important to understand that these terms are often used in financial and regulatory contexts to manage and mitigate risks associated with money laundering, fraud, and other illegal activities.
+
+**Personal Risk Information:**
+
+Personal risk information refers to data that can be used to assess the level of risk associated with an individual customer. This information can include:
+
+- Personal identification details (e.g., name, address, date of birth)
+- Financial transaction history
+- Source of funds
+- Occupation and income details
+- Political exposure
+- Relationships with other customers or entities
+- Geographic location
+- Any past suspicious activities or sanctions
+
+This information is used by financial institutions and other regulated entities to evaluate the risk profile of a customer and to determine the appropriate level of due diligence required.
+
+**High-Risk Customer Tags:**
+
+High-risk customer tags are labels or flags used within a company's risk management system to identify customers who pose a higher risk of engaging in money laundering, terrorist financing, or other illegal activities. These tags are typically assigned based on various risk factors, including:
+
+- The nature of the customer's business or occupation
+- The customer's country or region of residence or operation
+- The complexity and volume of transactions
+- The customer's source of wealth or funds
+- The customer's relationship with politically exposed persons (PEPs)
+- Any adverse media or watchlist screenings
+
+Here's what you need to know about high-risk customer tags:
+
+- **Enhanced Due Diligence:** Customers with high-risk tags often require enhanced due diligence measures, which can include more frequent identity verification, ongoing monitoring, and additional documentation.
+- **Reporting Requirements:** Financial institutions may have increased reporting obligations to regulatory authorities for high-risk customers.
+- **Risk Mitigation:** Companies may take steps to mitigate the risk posed by high-risk customers, such as limiting the types of transactions they can conduct or the amount of money they can move.
+
+It's crucial for businesses to handle personal risk information and high-risk customer tags with the utmost confidentiality and in compliance with relevant laws and regulations, such as the General Data Protection Regulation (GDPR) in the European Union. Companies must also ensure that their practices are fair and do not lead to discrimination against customers based on inappropriate risk assessments.

@@ -1,0 +1,71 @@
+Non-bank payment institutions often need to make announcements regarding regulatory compliance, changes in services, or other important notices. Below are examples of announcement prompt information, titles, and content for non-on-site regulatory business.
+
+### Announcement Prompt Information:
+This typically includes the date, the name of the institution, and the purpose of the announcement.
+
+**Example:**
+- Date: March 15, 2023
+- Institution: SecurePay Solutions, Inc.
+
+### Announcement Message Title:
+
+1. **Compliance Update: New Regulatory Requirements**
+2. **Important Notice: Changes to Payment Processing Fees**
+3. **Service Enhancement: Introducing Advanced Security Features**
+4. **Customer Alert: Beware of Phishing Scams**
+
+### Announcement Message Content:
+
+**Example 1: Compliance Update**
+---
+
+**Title:** Compliance Update: New Regulatory Requirements
+
+**Content:**
+
+Dear Valued Customer,
+
+We are committed to maintaining the highest standards of regulatory compliance. In accordance with recent regulations issued by the [Regulatory Body], SecurePay Solutions, Inc. has updated its policies and procedures to ensure we remain in full compliance.
+
+Effective April 1, 2023, the following changes will take effect:
+
+- Enhanced customer verification processes for new accounts.
+- Stricter monitoring of transactions to prevent money laundering and fraud.
+- Updated privacy policy to reflect new data protection requirements.
+
+We advise all customers to review the updated terms and conditions on our website. Should you have any questions or require further assistance, please do not hesitate to contact our customer support team.
+
+Thank you for your continued trust in SecurePay Solutions, Inc.
+
+Sincerely,
+[Your Compliance Team]
+
+---
+
+**Example 2: Important Notice on Fees**
+
+---
+
+**Title:** Important Notice: Changes to Payment Processing Fees
+
+**Content:**
+
+Dear Customer,
+
+We would like to inform you about upcoming changes to our payment processing fees. As of May 1, 2023, a small transaction fee will be applied to all credit card transactions. This change is necessary to cover the increasing costs of maintaining our secure and reliable payment services.
+
+The new fee structure is as follows:
+- 2.5% + $0.10 per credit card transaction.
+
+We strive to keep our fees as low as possible while maintaining the high-quality service you expect from SecurePay Solutions, Inc. For more details on the new fee structure, please visit our website.
+
+If you have any concerns or questions, please reach out to our customer support team.
+
+Thank you for your understanding.
+
+Best regards,
+[Your Customer Service Team]
+
+---
+
+These examples provide a framework for how non-bank payment institutions can communicate important information to their customers regarding non-on-site regulatory business.

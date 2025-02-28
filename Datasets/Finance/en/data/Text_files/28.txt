@@ -1,0 +1,27 @@
+Enterprise management involves the oversight and administration of a business, including the coordination of its personnel, resources, and operations. When discussing the main personnel and the actual controller of an enterprise, the following information is typically relevant:
+
+1. **Main Personnel:**
+   - **CEO (Chief Executive Officer):** The topmost executive in the company, responsible for making major corporate decisions, managing the overall operations, and acting as the main point of communication between the board of directors and the corporate operations.
+   - **CFO (Chief Financial Officer):** Manages the financial aspects of the enterprise, including financial planning, budgeting, and monitoring cash flow.
+   - **COO (Chief Operating Officer):** Oversees the company's daily operations and is responsible for the execution of the organization's strategy.
+   - **CTO (Chief Technology Officer):** In charge of the technology or IT departments, ensuring that the company's technological resources align with its goals.
+
+2. **Actual Controller:**
+   - This refers to the individual or entity that has significant influence or control over the enterprise, which may not always be the same as the CEO or other high-ranking officials. In some cases, this could be the largest shareholder or a board member.
+
+The following information is typically required for official records and due diligence purposes:
+
+- **Information Data:**
+  - Details about the enterprise, such as its legal name, registered address, nature of business, and operational scope.
+
+- **Personnel Details:**
+  - **Name:** Full legal name of the main personnel or actual controller.
+  - **ID Type:** The type of identification used, such as a national ID card, passport, driver's license, etc.
+  - **ID Number:** The unique identification number from the ID provided.
+  - **Contact Information:**
+    - **Address:** Legal residential or business address.
+    - **Phone Number(s):** Landline and mobile phone numbers.
+    - **Email Address(es):** Personal and official email addresses, if different.
+    - **Fax Number:** If relevant.
+
+Collecting and securely storing this information is essential for legal, compliance, and communication purposes. It is important to handle this data responsibly, ensuring privacy and protection under the applicable data protection laws and regulations.

@@ -1,0 +1,24 @@
+When discussing credit, there are several pieces of related data and information that are pertinent. Below, I'll define each term you've listed and explain how they are typically used in the context of credit arrangements:
+
+1. **Credit**: An agreement in which a borrower receives something of value now and agrees to repay the lender at a later date, usually with interest. Credit can take various forms such as loans, lines of credit, or credit cards.
+
+2. **Credit Type**: This refers to the category or classification of credit that is being extended. Types include:
+   - Secured credit: Backed by collateral that the lender can seize if you don't repay the loan.
+   - Unsecured credit: Not backed by collateral, such as credit cards or personal loans.
+   - Revolving credit: A flexible borrowing limit that can be reused, like a credit card.
+   - Installment credit: Borrow a set amount and repay it over time with fixed payments, like a car loan or mortgage.
+
+3. **Credit Purpose**: This is the intended use of the borrowed funds. The purpose may be specified by the lender and can include:
+   - Personal: For individual or household use, such as education, medical expenses, or home improvements.
+   - Business: For commercial purposes, such as purchasing inventory, equipment, or expansion.
+   - Investment: For buying assets such as real estate or securities.
+
+4. **Credit Currency**: This specifies the currency in which the credit is denominated. This could be the local currency of the borrower or lender, or a foreign currency if the credit is international.
+
+5. **Credit Term**: This is the duration over which the credit will be repaid. It can range from short-term (such as 90 days) to intermediate-term (1-5 years) to long-term (over 5 years, such as a 30-year mortgage).
+
+6. **Start Date**: This is the date when the credit agreement becomes effective, and the borrower can start utilizing the funds.
+
+7. **End Date**: This is the date when the borrower is expected to have fully repaid the credit, assuming they stick to the agreed-upon repayment schedule. This is the maturity date of the loan.
+
+In a credit agreement, all these pieces of information are specified to outline the terms under which the credit is extended and to ensure that both the lender and borrower understand their rights and obligations.
