@@ -14,8 +14,8 @@ You are free to utilize this dataset for academic, research, or commercial purpo
 | Dataset Name   | Data Format | 
 |----------------|-------------|
 | New Energy Vehicles   | txt         | 
-| finance     | txt         | 
-| medical      | txt         | 
+| Finance     | txt         | 
+| Medical      | txt         | 
 
 The structure of each folder is the same, so we will only show one of them here.
 
@@ -24,9 +24,10 @@ The structure of each folder is the same, so we will only show one of them here.
 ### `cn/en`(chinese and english version)
 - **-data**: Industry data files.
   - **-rules**:Includes three files:feature_data、level_data、name_data .
-  - **-attribute**: Extracted named entity examples.
+  - **-attribute**: Extract named entities into different txt files. 
   - **-embedding**: Word vectors used for pre-classification.
-  - **-sample**: Sample data.
+  - **-Text_files**: Sample data.
+  - **example.txt**:This file marks the classification and security level that each text file matches.
 - **-info**: Used for testing, unrelated to the main functionality.
 
 ### feature_data
