@@ -23,7 +23,7 @@ The structure of each folder is the same, so we will only show one of them here.
 
 ### `cn/en`(chinese and english version)
 - **-data**: Industry data files.
-  - **-Rule_Collection**:Includes three files:feature_data、level_data、name_data .
+  - **-rules**:Includes three files:feature_data、level_data、name_data .
   - **-attribute**: Extract named entities into different txt files. 
   - **-embedding**: Word vectors used for pre-classification.
   - **-Text_files**: Sample data.
