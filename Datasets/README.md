@@ -23,10 +23,10 @@ The structure of each folder is the same, so we will only show one of them here.
 
 ### `cn/en`(chinese and english version)
 - **-data**: Industry data files.
-  - **-data**:Includes three files:feature_data、level_data、name_data .
+  - **-rules**:Includes three files:feature_data、level_data、name_data .
   - **-attribute**: Extracted named entity examples.
   - **-embedding**: Word vectors used for pre-classification.
-  - **-example**: Sample data.
+  - **-sample**: Sample data.
 - **-info**: Used for testing, unrelated to the main functionality.
 
 ### feature_data
