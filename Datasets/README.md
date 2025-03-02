@@ -26,9 +26,7 @@ The structure of each folder is the same, so we will only show one of them here.
   - **-rules**:Includes three files:feature_data、level_data、name_data .
   - **-attribute**: Extract named entities into different txt files. 
   - **-embedding**: Word vectors used for pre-classification.
-  - **-Text_files**: Sample data.
-  - **example.txt**:This file marks the classification and security level that each text file matches.
-- **-info**: Used for testing, unrelated to the main functionality.
+  - **-Text_files**: This folder contains sample data, and a Data_label.txt file that marks the classification and security level of each text file．
 
 ### feature_data
 One line represents the content of one guideline 
