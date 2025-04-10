@@ -1,0 +1,5 @@
+Name, ID card, work permit, residence permit, social security card, identifiable personal image, health card number, hospitalization number, various inspection and testing related tracking numbers
+Genes, fingerprints, voiceprints, palm prints, earlobes, irises, facial features
+Chief complaint, current medical history, past medical history, physical examination (signs), family history, symptoms, test data, genetic counseling data, health-related data collected from wearable devices, lifestyle, gene sequencing, transcript sequencing, protein analysis and determination, metabolic small molecule monitoring, human microbiome monitoring
+Outpatient (emergency) medical records, hospitalization orders, examination and testing reports, medication information, course records, surgical records, anesthesia records, blood transfusion records, nursing records, admission records, discharge summary, referral (hospital) records, informed consent information
+Medical insurance payment information, transaction amount, transaction records, insurance status, insurance amount

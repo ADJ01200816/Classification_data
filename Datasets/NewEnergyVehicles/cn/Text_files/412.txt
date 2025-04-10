@@ -1,0 +1,1 @@
+某用户个人信息如下：男性，持中国国籍，月薪五万元，纳税额八千元。该用户所拥有车辆信息如下：车辆vin码为XXXXXXXX，发动机号为XXXXXXXX，销售日期为XXXX年XX月XX日，生产日期为XXXX年XX月XX日，驱动电机编号为XXXXXXXX，电池编号为XXXXXXXX，车辆用途为个人使用，车辆初登日期为XXXX年XX月XX日，行驶证编号为XXXXXXXX。

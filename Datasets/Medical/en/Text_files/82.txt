@@ -1,0 +1,5 @@
+John has been experiencing shortness of breath recently, especially when climbing stairs. He visited the hospital, where the nurse noted his main issue upon arrival. During the consultation, the doctor inquired about his recent and previous medical issues. After a thorough check-up, the doctor documented various signs observed. They also discussed John’s family’s health history. Here are some details:
+
+Sample String:
+
+"John reported his main issue as feeling unable to breathe properly. His recent visits include treatment for a cold, while in the past, he had a surgery. During the exam, the doctor noticed his pulse was rapid and lungs had some sounds. His father had similar issues. John mentioned feeling tired and chest pain. Lab results showed elevated levels, and his wearable device indicated low activity. John’s diet and exercise are noted, with genetic tests revealing specific markers. Further, RNA studies and protein levels were conducted, with metabolism tests showing unusual molecules, and his gut bacteria were also monitored."

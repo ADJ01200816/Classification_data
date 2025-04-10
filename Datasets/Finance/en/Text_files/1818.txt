@@ -1,0 +1,1 @@
+The trading partner, identified by the code TP12345, is a corporation based in Japan. The counterparty type is categorized as a corporate entity. The counterparty customer name is listed as "Yamamoto Corporation." The associated counterparty bank is "Sumitomo Mitsui Banking Corporation," and the account number provided is 1234567890.

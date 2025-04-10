@@ -1,0 +1,11 @@
+The patient's medical history includes a detailed record of their outpatient visits, both for emergencies and routine care. These records encompass a variety of information such as the dates of each visit, the specific symptoms or complaints addressed, and the treatments or interventions performed. Additionally, hospitalization orders detailing the duration of stay, the conditions requiring admission, and the care provided during the hospitalization are documented. 
+
+The examination and testing reports provide a comprehensive overview of the diagnostic procedures conducted, including laboratory results, imaging studies, and other diagnostic tests. Information regarding the prescribed medications, their dosages, and the duration of treatment is also included. 
+
+Course records and surgical records offer a chronological account of the patient's progress, including any surgical procedures performed, the outcomes of these procedures, and any complications that may have arisen. Anesthesia records detail the type of anesthesia administered during any surgical or procedural interventions, as well as the patient's response to the anesthesia.
+
+Blood transfusion records are present, providing information on the type of blood products administered, the volume transfused, and the patient's response to the transfusion. Nursing records contain detailed notes on the patient's condition, vital signs, and any interventions performed by the nursing staff.
+
+Admission records summarize the patient's medical history, current condition, and the rationale for admission. The discharge summary provides a comprehensive overview of the patient's condition at the time of discharge, including any remaining issues, follow-up recommendations, and the discharge instructions provided to the patient.
+
+Referral records, if applicable, include information on the reasons for the referral, the specialists involved, and the outcomes of the consultations. Informed consent information is documented, detailing the patient's understanding of the risks, benefits, and alternatives associated with any procedures or treatments received.

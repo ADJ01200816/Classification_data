@@ -1,0 +1,1 @@
+The individual in question holds a wallet with the identifier [wallet id]. This wallet is categorized under [wallet type] and has been assigned a [wallet level]. The wallet is named [wallet name], and it is managed by [wallet operating institution number]. It was opened on [wallet opening date], and its current status is [wallet status].

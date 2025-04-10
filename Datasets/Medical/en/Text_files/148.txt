@@ -1,0 +1,11 @@
+The patient, identified by a unique identifier 123456789, is a 32-year-old male of Indian nationality. He resides in New Delhi and earns an annual income of 800,000 Indian Rupees. His tax liability for the fiscal year is 200,000 Indian Rupees. The patient's contact details include a mobile phone number +91-9876543210.
+
+The patient's medical records include an outpatient medical record with visit dates ranging from January 1, 2022, to December 31, 2022. The hospitalization orders document details a stay from March 15, 2022, to March 20, 2022, with a diagnosis of appendicitis. Examination and testing reports show a blood test on February 1, 2022, with results indicating a hemoglobin level of 12.5 g/dL and a cholesterol level of 200 mg/dL.
+
+Medication information lists the patient's prescriptions, including antibiotics for a urinary tract infection, painkillers for post-operative recovery, and statins for cholesterol management. Course records indicate the patient attended a total of 10 therapy sessions, with the last session on November 15, 2022.
+
+Surgical records reveal a laparoscopic appendectomy performed on March 18, 2022, by Dr. Ramesh Sharma. Anesthesia records show the patient received general anesthesia with a dosage of 2.5 mg/kg. Blood transfusion records note a single unit of packed red blood cells administered during the hospitalization.
+
+Nursing records document the patient's vital signs, intake and output, and any complications or changes in condition. Admission records provide details of the patient's initial presentation, including vital signs, history of present illness, and physical examination findings. The discharge summary summarizes the patient's hospital stay, discharge instructions, and follow-up appointments.
+
+Referral records indicate a referral to a cardiologist on June 1, 2022, for further evaluation of the patient's cholesterol levels. Informed consent information includes the patient's signature on consent forms for various procedures and treatments, along with the date and signature of the healthcare provider.

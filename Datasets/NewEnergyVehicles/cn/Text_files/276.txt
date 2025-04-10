@@ -1,0 +1,1 @@
+某客户，男性，中国国籍，月收入为五万元整，年度纳税额为八千元整。其个人物品信息如下：该客户所持手机IMEI码为XXXXXXXXXXXX，所购车辆发动机号为XXXXXXXXXXXX，销售日期为XXXX年XX月XX日，生产日期为XXXX年XX月XX日，驱动电机编号为XXXXXXXXXXXX，电池编号为XXXXXXXXXXXX，车辆用途为XX，车辆初次登记日期为XXXX年XX月XX日，行驶证编号为XXXXXXXXXXXX。

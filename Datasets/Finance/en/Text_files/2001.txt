@@ -1,0 +1,1 @@
+The individual in question holds a credit card issued by a specific financial institution. The card was opened on a particular date, and it was activated on another specific date. The credit limit assigned to this card is a designated amount, while the withdrawal limit is another predefined amount.

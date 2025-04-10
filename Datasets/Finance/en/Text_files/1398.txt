@@ -1,0 +1,1 @@
+On the 15th of March, a transaction was processed involving a credit card with the last four digits 1234. The withdrawal was made at a bank branch located at 123 Main Street, New York, NY. The withdrawal date was recorded as March 15, 2023. The amount withdrawn was $2500. The transaction left a remaining credit limit of $15000 on the card.

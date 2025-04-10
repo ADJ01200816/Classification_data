@@ -1,0 +1,19 @@
+In a routine cybersecurity audit, an analysis of digital platforms revealed various elements pertinent to user data management. The audit began with the scrutiny of a webpage hosted on the domain example.com, which featured a registration form requiring users to input their full name, gender, and nationality. The webpage also displayed a monthly income bracket selector ranging from $3,000 to $50,000, with an average user indicating an income of $35,000. Corresponding tax contributions were automatically calculated, showing a typical annual tax amount of $8,400.
+
+Transitioning to mobile applications, the audit team examined an app named "FinSecure," available on both iOS and Android platforms. The app's user profile section included fields for personal details such as name, gender, and nationality, with drop-down menus for selecting these attributes. Financial data, including monthly income and tax payments, were encrypted and stored securely, with sample figures showing an income of $4,500 and a monthly tax deduction of $575.
+
+Further investigation revealed a WeChat official account named "FinAdvisor," which provided financial tips and required users to subscribe by providing their full name, gender, and nationality. The account also prompted users to link their bank accounts, displaying estimated monthly incomes and tax liabilities, with examples showing incomes around $40,000 and taxes near $10,000 annually.
+
+A WeChat applet named "TaxCalc" was also assessed, offering a quick tax calculation feature. Users input their income, and the applet provided instant tax estimates, with a sample calculation for an income of $30,000 resulting in a tax estimate of $7,200.
+
+Online banking platforms, including "GlobalBankOnline," were scrutinized for their handling of sensitive data. The platform's dashboard displayed user balances, transaction histories, and tax records, with sample data indicating a user balance of $25,000 and annual tax payments of $6,500.
+
+Mobile banking apps, such as "QuickBank," were evaluated for their security features. The app included sections for account balances, income tracking, and tax records, with sample data showing a balance of $20,000, monthly income of $3,800, and tax deductions of $480.
+
+An insurance online mall named "InsurePro" required users to fill out detailed forms including name, gender, nationality, income, and tax details to generate insurance quotes. Sample entries revealed incomes around $45,000 and annual tax payments of $11,250.
+
+Various websites, including "FinanceHub," were analyzed for their data collection practices. The site's membership form requested personal and financial information, with example data showing incomes of $38,000 and taxes of $9,500.
+
+Installation packages for financial management software, such as "MoneyManager," were examined. The installation process required users to agree to data collection terms, including name, gender, nationality, income, and tax details. Sample data within the software showed incomes of $32,000 and taxes of $8,000.
+
+Download links for these applications and software were provided on their respective websites, accompanied by QR codes for quick access. Service items listed on these platforms included financial planning, tax consultancy, and investment advice, each requiring varying degrees of personal and financial information from users.

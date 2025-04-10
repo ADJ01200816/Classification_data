@@ -1,0 +1,1 @@
+该用户名对应的个人信息如下：用户名为“张三”，性别为“男”，国籍为“中国”，月收入为“50000元”，纳税额为“8000元”，联系方式为“电话号码”。车辆信息包括：vin码为“XXXXXXXXXXXXXXXX”，发动机号为“XXXXXXXXXXXXXXXX”，销售日期为“YYYY-MM-DD”，生产日期为“YYYY-MM-DD”，驱动电机编号为“XXXXXXXXXXXXXXXX”，电池编号为“XXXXXXXXXXXXXXXX”，车辆用途为“个人”，车辆初登日期为“YYYY-MM-DD”，行驶证编号为“XXXXXXXXXXXXXXXX”。

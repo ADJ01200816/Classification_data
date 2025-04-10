@@ -1,0 +1,1 @@
+vin code: 123ABCDEF, start time: 2022-01-01 08:00:00, end time: 2022-01-01 17:00:00, consumed time: 9 hours, total start mileage: 100 km, total end mileage: 500 km, driving mileage: 400 km, start longitude: 121.4737, start latitude: 31.2304, end longitude: 121.4603, end latitude: 31.2257, start position: 121.4737,31.2304, end position: 121.4603,31.2257

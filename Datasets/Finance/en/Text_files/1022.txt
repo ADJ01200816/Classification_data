@@ -1,0 +1,1 @@
+The individual in question holds a qualification certificate, which is identified by a specific qualification certificate number. The certificate was issued by a designated qualification certificate issuing institution. The qualification certificate is valid from a specified effective date and will expire on a predetermined expiration date.

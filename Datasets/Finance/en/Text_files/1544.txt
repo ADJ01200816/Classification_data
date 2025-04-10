@@ -1,0 +1,6 @@
+The individual in question is a male with a monthly salary of 50,000 yuan, which is subject to a tax deduction of 8,000 yuan. He holds a phone number associated with his identity, and the following data points are identified: 
+- Document management details
+- Document inventory information
+- Transfer information
+- Usage tracking information
+- Settlement information

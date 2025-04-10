@@ -1,0 +1,1 @@
+The subject in question experienced an alarm event, characterized by the following details: a unique vin code, an alarm type symbol, an alarm level, the specific start and end time of the alarm, the type of alarm, and the corresponding start and end latitude and longitude coordinates.

@@ -1,0 +1,1 @@
+The individual's personal data includes a unique identification number (vin code), the start time of the journey, the end time of the journey, the total consumed time, the total start mileage, the total end mileage, the driving mileage, the start longitude, the start latitude, the end longitude, the end latitude, the start position, and the end position.

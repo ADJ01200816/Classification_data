@@ -1,0 +1,1 @@
+The data includes details such as the employee's mobile phone number, identification card information, and email address. The position held by the employee is identified, along with their job level. Social security and personal income tax situations are also documented. Information on social relations, rewards and punishments, and work or research results are also included.

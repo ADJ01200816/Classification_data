@@ -1,0 +1,13 @@
+vin code: ABC123456
+start time: 2022-01-01 08:00:00
+end time: 2022-01-01 18:00:00
+consumed time: 10 hours
+total start mileage: 150 km
+total end mileage: 350 km
+driving mileage: 200 km
+start longitude: 121.4737
+start latitude: 31.2304
+end longitude: 121.5095
+end latitude: 31.2103
+start position: 121.4737, 31.2304
+end position: 121.5095, 31.2103

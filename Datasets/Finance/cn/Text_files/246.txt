@@ -1,0 +1,37 @@
+张三自2019年起在XX科技有限公司担任软件工程师一职，负责公司信息系统的设计与开发。张三每月薪资为50000元，根据我国个人所得税法规定，其每月需缴纳个人所得税8000元。以下是张三负责的部分项目详情：
+
+1. 项目名称：XX公司信息系统升级改造
+项目周期：2019年1月至2019年12月
+项目描述：针对公司现有信息系统进行升级改造，提高系统稳定性和数据处理能力。
+
+以下是该项目部分设计方案与源代码：
+
+设计方案：
+（1）采用B/S架构，提高系统兼容性和可维护性；
+（2）数据库采用MySQL，保证数据安全性和一致性；
+（3）前端使用Vue.js框架，提升用户体验。
+
+源代码片段：
+
+```java
+// 用户登录模块
+public class LoginController {
+    private UserService userService;
+
+    public String login(String username, String password) {
+        // 模拟电话号码，以下为具体实现
+        String phoneNumber = "13800138000";
+        // 验证用户名和密码
+        boolean isValid = userService.validate(username, password);
+        if (isValid) {
+            // 登录成功，跳转到主页面
+            return "redirect:/main";
+        } else {
+            // 登录失败，返回错误信息
+            return "loginError";
+        }
+    }
+}
+```
+
+以上文本详细描述了张三的工作内容、收入情况以及涉及的具体项目实现，以下不继续描述。

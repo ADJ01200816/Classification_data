@@ -1,0 +1,1 @@
+The individual in question holds an account with the following details: account number [123456789], which is of type [savings]. The account is flagged as a margin account [yes/no], and its current status is [active/inactive]. The account was opened at the institution with the number [987654321] on [YYYY-MM-DD], and there is a noted payment mark associated with the account.
