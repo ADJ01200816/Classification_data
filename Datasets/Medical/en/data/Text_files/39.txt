@@ -1,3 +1,0 @@
-Today, I received an update on my policy, and here is the breakdown: The recent transaction included a specific amount that was processed. The history of my transactions shows a series of records. Currently, my policy status is active, and the covered amount for any medical needs is clearly stated. Here is the sample string:
-
-"Received an update on my policy: recent transaction of [AMOUNT], with a full history of [RECORDS]. Policy status is [STATUS], with a coverage amount of [INSURANCE AMOUNT]."

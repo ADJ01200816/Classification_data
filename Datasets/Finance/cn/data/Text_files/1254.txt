@@ -1,7 +1,0 @@
-李四是某科技公司的系统管理员，负责日常的系统维护和数据处理工作。他每天早上9点准时登录服务器，运行一系列预先编写的shell脚本，检查系统日志和硬件状态。这些脚本存放在公司的内部服务器上，路径为`/usr/local/bin/check_system.sh`。李四还会定期执行SQL脚本，对数据库进行优化和清理，常用的SQL脚本文件名为`optimize_db.sql`，存储在数据库服务器的`/var/sql_scripts`目录下。
-
-在统计数据方面，李四每月需要生成一份详细的系统性能报告，报告中包含了CPU使用率、内存占用情况和磁盘I/O速度等关键指标。这些数据通过一个名为`collect_stats.py`的Python脚本自动收集，并存入名为`performance_data.db`的SQLite数据库中。李四还会使用Excel生成图表，文件通常命名为`monthly_report_YYYYMM.xlsx`，存放在他的个人工作目录`/home/liSi/reports`下。
-
-此外，李四还负责监控公司的网络安全，使用一款名为`Norton Security`的软件进行实时防护。该软件的配置文件位于`/etc/norton/config.xml`，每天生成的安全日志文件名为`security_log_YYYYMMDD.txt`，存放在`/var/log/norton`目录下。李四每周对这些日志进行分析，提取出潜在的安全威胁，并将分析结果整理成报告，文件名为`weekly_security_report_YYYYWW.pdf`，存放在公司内部共享文件夹`/share/security_reports`中。
-
-在日常工作中，李四还会使用一款名为`JIRA`的项目管理工具，跟踪各项任务的进度。他的用户名为`liSi2023`，登录密码经过加密存储在`/home/liSi/.jira_credentials`文件中。通过JIRA，李四可以查看每个项目的详细信息和团队成员的工作状态，确保各项任务按时完成。

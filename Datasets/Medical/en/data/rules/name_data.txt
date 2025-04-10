@@ -1,5 +1,0 @@
-Personal identification information
-Personal biometric information
-Health status data
-Medical application data
-Medical payment data

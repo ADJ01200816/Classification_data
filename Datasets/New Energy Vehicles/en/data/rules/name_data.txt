@@ -1,4 +1,0 @@
-Basic information of the vehicle
-Basic information of the vehicle model
-Vehicle driving information
-Abnormal alarm record

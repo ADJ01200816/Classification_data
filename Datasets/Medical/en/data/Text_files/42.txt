@@ -1,5 +1,0 @@
-During my recent visit, I expressed my primary concern which has been bothering me. Over the past few weeks, I experienced some unusual sensations that led me to this appointment. In terms of my medical background, I have had a few incidents in the past and also some ongoing issues. When the doctor examined me, they noticed certain indicators. Additionally, we discussed my family’s health history.
-
-Here’s more detail: my symptoms included XYZ, and I underwent various tests. These tests include data from my genetic counseling, health data from my wearable devices, and more. Below is a sample string:
-
-"Patient reports XYZ as the main issue, recently noticed ABC. History includes previous issues like DEF and current issues like GHI. Physical exam revealed JKL. Family has a history of MNO. Symptoms include PQR. Test results show STU, with genetic data on VWX, transcript YZ, protein analysis 123, and metabolic monitoring 456. Microbiome observed as 789."
