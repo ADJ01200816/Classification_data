@@ -26,7 +26,7 @@ The main objective of this project is to develop a classification model that can
 - **read_information.py**: Extracts file information.
 - **setting.py**: Configuration of relevant parameters.
 - **tools.py**: Utility functions, including word vector conversion and LLM usage.
-- **middile_data**:It contains the data generated during the program running process, which can be ignored.
+- **middile_data**: It contains the data generated during the program running process, which can be ignored.
 
 
   
