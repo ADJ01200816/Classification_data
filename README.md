@@ -39,8 +39,8 @@ The project employs method which involves:
 ### Industries Covered
 The model is designed to be flexible and adaptable across multiple industries, including:
 - Finance
-- Healthcare
-- New Energy
+- Medical
+- New Energy Vehicles
 
 ## Dependencies
 
@@ -108,7 +108,7 @@ Example:
 text: Xiao Zhang has handled business through online banking and mobile banking apps, and has also made an appointment for counter services, which are received by his account manager Xiao Li. He occasionally uses remote banking services and receives notifications via email and text messages. Social networks have become an auxiliary channel for him to interact with financial institutions. Recently, he compared the products and services of several institutions and plans to make a choice during his visit time next Wednesday. He usually logs in at night and visits mostly at home. In addition, his web browsing history and APP browsing history show inquiries about personal driving habits.
 
 output:
-['Personal public-private relationship information', 'Unit public-private relationship information'] [2]
+['Personal public-private relationship information', 'Unit public-private relationship information'] [2] [Unregulated]
 
 
 ## Contributors
