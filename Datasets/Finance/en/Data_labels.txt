@@ -985,30 +985,3 @@
 2|custody business information
 2|investment and financial information
 2|basic information of credit card
-2|withdrawal information
-2|consumer information
-2|installment information
-2|basic information of non bank payments
-2|signing information
-3|basic policy information
-2|policy liability information
-2|property insurance subject information
-2|information on the subject matter of liability insurance
-2|information on the subject matter of credit guarantee insurance
-4|information on special risk targets
-2|underwriting information
-2|preservation and correction information
-3|sales channel expense information
-2|policy loan information
-2|claims case information
-2|claims investigation information
-2|compensation result information
-2|reinsurance contract information
-2|reinsurance business details information
-2|reinsurance claim information
-3|reinsurance billing information
-2|trust product information
-2|trust fundraising information
-2|trust application information
-2|inherent business information
-3|information on debt transfer contract

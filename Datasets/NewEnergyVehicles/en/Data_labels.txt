@@ -1,0 +1,400 @@
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
+1|basic information of the vehicle
+2|basic information of the vehicle model
+4|vehicle driving information
+4|abnormal alarm record
