@@ -24,6 +24,7 @@ The structure of each folder is the same, so we will only show one of them here.
 ### `cn/en`(chinese and english version)
 - **-rules**:Includes three files:feature_data、level_data、category_data .
 - **-Text_files**: This folder contains sample data, and a Data_label.txt file that marks the classification and security level of each text file．
+- **-Data_labels.txt**: This file contains the category corresponding to each Text_files.
 
 ### feature_data
 One line represents the content of one guideline 
